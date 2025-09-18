@@ -1,9 +1,11 @@
 streamlit
 pandas
 numpy
-scikit-learn
 joblib
+requests
+networkx
 folium
 streamlit-folium
 python-dotenv
-requests
+openpyxl
+scikit-learn
