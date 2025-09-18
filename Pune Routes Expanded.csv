@@ -1,0 +1,1501 @@
+Route_Name,Start_Location,End_Location,Station_Name,Station_Type,Latitude,Longitude,Station_Distance_km,Distance_from_End_km,Fare_INR,Travel_Time_min
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,Kothrud Depot Start,Bus,18.508115,73.808926,0.0,6.597,5,0
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 001,Bus,18.507675,73.808368,0.037,6.56,6,1
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 002,Metro,18.508375,73.808071,0.074,6.523,5,0
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 003,Bus,18.508064,73.808749,0.111,6.486,5,0
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 004,Bus,18.508024,73.808466,0.149,6.448,5,0
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 005,Bus,18.508027,73.809829,0.186,6.411,5,0
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 006,Bus,18.50923,73.810544,0.223,6.374,6,4
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 007,Bus,18.509853,73.809509,0.26,6.337,5,2
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 008,Metro,18.50889,73.810616,0.297,6.3,5,2
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 009,Metro,18.510006,73.810169,0.334,6.263,6,2
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 010,Bus,18.507644,73.810682,0.371,6.226,6,0
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 011,Bus,18.506678,73.811087,0.408,6.189,7,1
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 012,Bus,18.507831,73.811974,0.446,6.151,6,3
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 013,Metro,18.508773,73.813701,0.483,6.114,7,4
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 014,Bus,18.509322,73.812085,0.52,6.077,7,3
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 015,Bus,18.507904,73.813286,0.557,6.04,6,3
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 016,Bus,18.507628,73.814704,0.594,6.003,7,1
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 017,Bus,18.50969,73.813209,0.631,5.966,7,1
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 018,Bus,18.507437,73.815014,0.668,5.929,7,2
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 019,Bus,18.508778,73.815267,0.706,5.891,8,1
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 020,Bus,18.507655,73.814144,0.743,5.854,7,4
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 021,Metro,18.508997,73.815007,0.78,5.817,7,1
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 022,Bus,18.508694,73.815814,0.817,5.78,8,5
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 023,Bus,18.508261,73.815548,0.854,5.743,8,5
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 024,Bus,18.509273,73.816419,0.891,5.706,8,2
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 025,Bus,18.509808,73.815454,0.928,5.669,8,4
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 026,Bus,18.508073,73.817722,0.966,5.631,7,4
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 027,Bus,18.509627,73.816447,1.003,5.594,8,6
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 028,Bus,18.510664,73.817485,1.04,5.557,7,1
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 029,Bus,18.510428,73.817792,1.077,5.52,8,6
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 030,Metro,18.511195,73.819489,1.114,5.483,7,6
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 031,Bus,18.509409,73.819208,1.151,5.446,9,4
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 032,Bus,18.510186,73.819872,1.188,5.409,7,3
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 033,Bus,18.508959,73.819672,1.225,5.372,8,6
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 034,Bus,18.510639,73.818062,1.263,5.334,7,5
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 035,Bus,18.508907,73.818184,1.3,5.297,9,4
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 036,Bus,18.5097,73.820736,1.337,5.26,9,4
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 037,Bus,18.511179,73.820567,1.374,5.223,7,4
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 038,Bus,18.511341,73.81975,1.411,5.186,9,5
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 039,Bus,18.508737,73.821156,1.448,5.149,8,6
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 040,Bus,18.510469,73.82152,1.485,5.112,8,5
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 041,Bus,18.508569,73.821821,1.523,5.074,10,5
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 042,Bus,18.509241,73.822774,1.56,5.037,8,7
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 043,Bus,18.510639,73.821833,1.597,5.0,9,6
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 044,Bus,18.509997,73.822083,1.634,4.963,9,7
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 045,Bus,18.510419,73.824041,1.671,4.926,8,6
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 046,Bus,18.509742,73.824026,1.708,4.889,8,4
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 047,Bus,18.510168,73.823335,1.745,4.852,9,5
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 048,Bus,18.510568,73.823487,1.782,4.815,9,3
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 049,Bus,18.510272,73.823703,1.82,4.777,10,5
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 050,Bus,18.512349,73.825036,1.857,4.74,9,7
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 051,Bus,18.510279,73.825525,1.894,4.703,9,8
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,Paud Phata,Bus,18.51081,73.825523,1.931,4.666,9,5
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,Paud Phata,Bus,18.511391,73.826306,1.931,4.666,9,6
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 054,Bus,18.510613,73.825566,1.969,4.628,10,8
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 055,Bus,18.510956,73.824513,2.007,4.59,10,7
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 056,Bus,18.510101,73.827775,2.044,4.553,11,9
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 057,Bus,18.512767,73.826809,2.082,4.515,11,7
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 058,Bus,18.51205,73.827584,2.12,4.477,11,7
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 059,Bus,18.51419,73.828558,2.157,4.44,10,7
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 060,Bus,18.511763,73.827225,2.195,4.402,11,6
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 061,Bus,18.510718,73.828479,2.233,4.364,11,7
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 062,Bus,18.511535,73.827505,2.271,4.326,11,6
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 063,Metro,18.511761,73.828105,2.308,4.289,12,7
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 064,Bus,18.513766,73.830003,2.346,4.251,11,9
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 065,Bus,18.512548,73.830808,2.384,4.213,11,9
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 066,Bus,18.512754,73.829262,2.422,4.175,11,8
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 067,Bus,18.514048,73.83071,2.459,4.138,10,8
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 068,Bus,18.512138,73.830453,2.497,4.1,11,8
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 069,Bus,18.512405,73.829826,2.535,4.062,11,7
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 070,Metro,18.513984,73.832787,2.573,4.024,12,11
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 071,Bus,18.512262,73.832037,2.61,3.987,10,10
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 072,Bus,18.512998,73.831524,2.648,3.949,12,9
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 073,Bus,18.513183,73.831549,2.686,3.911,12,7
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 074,Metro,18.513833,73.831903,2.723,3.874,11,10
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 075,Bus,18.514149,73.832854,2.761,3.836,12,11
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 076,Bus,18.513879,73.832496,2.799,3.798,12,10
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 077,Bus,18.513747,73.834153,2.837,3.76,11,7
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 078,Bus,18.514747,73.833094,2.874,3.723,11,8
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 079,Bus,18.514563,73.834804,2.912,3.685,13,11
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 080,Bus,18.513286,73.834964,2.95,3.647,13,10
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 081,Bus,18.514229,73.835313,2.988,3.609,12,7
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 082,Bus,18.514287,73.83374,3.025,3.572,13,8
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 083,Bus,18.513733,73.835549,3.063,3.534,12,8
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 084,Bus,18.515381,73.835114,3.101,3.496,12,13
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 085,Bus,18.515822,73.834836,3.139,3.458,13,8
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 086,Bus,18.515396,73.835523,3.176,3.421,13,12
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 087,Bus,18.515065,73.836857,3.214,3.383,12,10
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 088,Bus,18.515036,73.836838,3.252,3.345,13,11
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 089,Bus,18.516667,73.837011,3.289,3.308,13,9
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,Nal Stop,Bus,18.516669,73.836896,3.327,3.27,12,11
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,Nal Stop,Bus,18.516424,73.838953,3.327,3.27,13,10
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 092,Bus,18.514093,73.837532,3.367,3.23,13,12
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 093,Bus,18.516602,73.838378,3.407,3.19,12,10
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 094,Bus,18.516507,73.838427,3.447,3.15,14,12
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 095,Bus,18.516349,73.839155,3.486,3.111,12,12
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 096,Bus,18.517284,73.839854,3.526,3.071,12,10
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 097,Bus,18.51669,73.83969,3.566,3.031,13,11
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 098,Bus,18.5161,73.840044,3.606,2.991,13,9
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 099,Bus,18.516876,73.840423,3.645,2.952,14,11
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 100,Bus,18.516862,73.84279,3.685,2.912,15,9
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,Deccan Gymkhana,Bus,18.517397,73.841239,3.725,2.872,15,10
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,Deccan Gymkhana,Bus,18.517661,73.841174,3.725,2.872,15,11
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 103,Bus,18.514873,73.840981,3.762,2.835,14,11
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 104,Metro,18.514811,73.841793,3.8,2.797,13,12
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 105,Bus,18.516126,73.843702,3.837,2.76,15,13
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 106,Bus,18.516177,73.842473,3.874,2.723,15,15
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 107,Bus,18.516383,73.841166,3.912,2.685,14,12
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 108,Bus,18.515712,73.843839,3.949,2.648,14,12
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 109,Bus,18.514144,73.844424,3.986,2.611,14,13
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 110,Bus,18.515402,73.843464,4.023,2.574,14,15
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 111,Bus,18.515441,73.8459,4.061,2.536,14,14
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 112,Bus,18.514884,73.844569,4.098,2.499,15,12
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 113,Bus,18.514175,73.843977,4.135,2.462,14,14
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 114,Bus,18.515011,73.844259,4.173,2.424,15,15
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 115,Bus,18.514208,73.844849,4.21,2.387,15,14
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 116,Metro,18.514338,73.845785,4.247,2.35,15,13
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 117,Bus,18.514588,73.845397,4.285,2.312,16,15
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 118,Bus,18.513346,73.845309,4.322,2.275,16,12
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 119,Bus,18.513011,73.846681,4.359,2.238,15,13
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 120,Bus,18.513776,73.845929,4.396,2.201,15,13
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 121,Bus,18.51367,73.848038,4.434,2.163,16,17
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 122,Bus,18.513109,73.848742,4.471,2.126,15,15
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 123,Bus,18.511963,73.846532,4.508,2.089,16,14
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 124,Bus,18.510963,73.849011,4.546,2.051,16,15
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 125,Metro,18.512713,73.848057,4.583,2.014,16,14
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 126,Bus,18.512217,73.847488,4.62,1.977,16,13
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 127,Bus,18.513754,73.848779,4.658,1.939,15,18
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 128,Bus,18.511689,73.849543,4.695,1.902,16,14
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 129,Bus,18.51179,73.849428,4.732,1.865,16,15
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 130,Bus,18.510577,73.849914,4.769,1.828,16,13
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 131,Bus,18.512519,73.8509,4.807,1.79,16,15
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 132,Bus,18.512091,73.849701,4.844,1.753,16,16
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 133,Bus,18.509829,73.850297,4.881,1.716,17,15
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 134,Bus,18.510469,73.85156,4.919,1.678,17,17
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 135,Bus,18.508875,73.852195,4.956,1.641,17,16
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 136,Bus,18.509906,73.850917,4.993,1.604,17,13
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 137,Bus,18.509027,73.850222,5.031,1.566,17,15
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 138,Bus,18.510299,73.851891,5.068,1.529,17,18
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 139,Bus,18.508412,73.851083,5.105,1.492,17,18
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 140,Bus,18.508979,73.853742,5.142,1.455,18,17
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 141,Bus,18.508844,73.851491,5.18,1.417,18,16
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 142,Bus,18.508659,73.852762,5.217,1.38,18,16
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 143,Bus,18.506502,73.853224,5.254,1.343,17,16
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 144,Bus,18.508279,73.854112,5.292,1.305,19,15
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 145,Bus,18.509747,73.854743,5.329,1.268,17,20
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 146,Bus,18.507856,73.853243,5.366,1.231,17,17
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 147,Bus,18.509934,73.854463,5.404,1.193,19,18
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 148,Bus,18.50769,73.854683,5.441,1.156,19,18
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 149,Bus,18.507642,73.854874,5.478,1.119,17,17
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 150,Metro,18.506828,73.854839,5.515,1.082,19,18
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 151,Metro,18.507065,73.855129,5.553,1.044,18,15
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 152,Bus,18.506325,73.855936,5.59,1.007,18,19
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 153,Bus,18.506495,73.857341,5.627,0.97,18,16
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 154,Bus,18.504382,73.857298,5.665,0.932,19,19
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 155,Bus,18.507303,73.855053,5.702,0.895,18,19
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 156,Bus,18.505836,73.856702,5.739,0.858,19,18
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 157,Metro,18.504788,73.856663,5.777,0.82,19,18
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 158,Bus,18.50483,73.858975,5.814,0.783,20,18
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 159,Bus,18.506271,73.858877,5.851,0.746,19,17
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 160,Bus,18.505903,73.857244,5.889,0.708,18,19
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 161,Bus,18.50471,73.858825,5.926,0.671,19,16
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 162,Bus,18.503956,73.859291,5.963,0.634,20,19
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 163,Metro,18.504545,73.858708,6.0,0.597,20,19
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 164,Bus,18.50511,73.85965,6.038,0.559,19,18
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 165,Bus,18.504057,73.860509,6.075,0.522,20,22
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 166,Bus,18.503284,73.860362,6.112,0.485,19,23
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 167,Metro,18.504428,73.859908,6.15,0.447,20,20
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 168,Bus,18.504018,73.859442,6.187,0.41,19,22
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 169,Bus,18.5043,73.860582,6.224,0.373,20,22
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 170,Bus,18.502947,73.861856,6.262,0.335,20,19
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 171,Bus,18.502605,73.860177,6.299,0.298,20,18
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 172,Metro,18.501727,73.862076,6.336,0.261,21,17
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 173,Bus,18.501752,73.863282,6.373,0.224,20,18
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 174,Bus,18.500915,73.863522,6.411,0.186,20,18
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 175,Bus,18.502553,73.862375,6.448,0.149,20,19
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 176,Bus,18.501752,73.863058,6.485,0.112,20,19
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 177,Metro,18.501962,73.863909,6.523,0.074,20,21
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,KOT-SWA Stop 178,Bus,18.501887,73.863433,6.56,0.037,20,21
+Kothrud Depot–Swargate,Kothrud Depot,Swargate,Swargate End,Bus,18.501309,73.863554,6.597,0.0,20,16
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,Pune Railway Station Start,Bus,18.528321,73.873721,0.0,13.43,5,2
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 001,Bus,18.528878,73.876261,0.087,13.343,5,0
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 002,Bus,18.529977,73.875544,0.174,13.256,5,3
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 003,Bus,18.531031,73.875991,0.261,13.169,5,3
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 004,Bus,18.530536,73.876243,0.348,13.082,6,3
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 005,Bus,18.531221,73.87697,0.434,12.996,5,2
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 006,Bus,18.532396,73.877642,0.521,12.909,5,1
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 007,Bus,18.532936,73.878135,0.608,12.822,6,4
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 008,Bus,18.532949,73.877201,0.695,12.735,7,1
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 009,Bus,18.534154,73.879677,0.782,12.648,7,2
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 010,Bus,18.534756,73.877683,0.869,12.561,8,3
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 011,Bus,18.536164,73.880488,0.956,12.474,6,6
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 012,Bus,18.535915,73.880368,1.043,12.387,8,1
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 013,Bus,18.536055,73.880957,1.13,12.3,9,7
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,Ruby Hall,Bus,18.535601,73.883931,1.216,12.214,8,5
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,Ruby Hall,Bus,18.535947,73.882574,1.216,12.214,8,3
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 016,Bus,18.537146,73.883457,1.296,12.134,8,4
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 017,Bus,18.53692,73.884012,1.376,12.054,9,6
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 018,Bus,18.539073,73.884334,1.456,11.974,8,6
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 019,Bus,18.537661,73.885881,1.535,11.895,9,3
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 020,Bus,18.538734,73.88665,1.615,11.815,9,4
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 021,Bus,18.538711,73.885446,1.695,11.735,10,5
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 022,Bus,18.539857,73.886103,1.775,11.655,10,6
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 023,Bus,18.539142,73.887077,1.854,11.576,10,6
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 024,Bus,18.539199,73.888603,1.934,11.496,11,8
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,Bund Garden,Bus,18.539857,73.889338,2.014,11.416,10,8
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,Bund Garden,Bus,18.540891,73.889363,2.014,11.416,10,5
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 027,Bus,18.538763,73.889515,2.09,11.34,9,8
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 028,Bus,18.539268,73.887506,2.166,11.264,11,6
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 029,Bus,18.538152,73.888793,2.243,11.187,9,7
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 030,Bus,18.536795,73.889077,2.319,11.111,10,7
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 031,Bus,18.536271,73.887821,2.395,11.035,11,8
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 032,Bus,18.53561,73.887478,2.472,10.958,10,7
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 033,Bus,18.53423,73.886057,2.548,10.882,11,8
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 034,Bus,18.535741,73.886276,2.624,10.806,11,7
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 035,Bus,18.53303,73.884975,2.7,10.73,12,11
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 036,Bus,18.53267,73.885383,2.777,10.653,12,9
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 037,Bus,18.533853,73.886994,2.853,10.577,11,10
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 038,Bus,18.531347,73.887732,2.929,10.501,11,9
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 039,Bus,18.532041,73.885415,3.006,10.424,12,10
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 040,Bus,18.528614,73.887251,3.082,10.348,12,10
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 041,Bus,18.52886,73.883846,3.158,10.272,12,10
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 042,Bus,18.530148,73.886859,3.234,10.196,14,12
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 043,Bus,18.529796,73.885102,3.311,10.119,14,10
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 044,Bus,18.528522,73.885078,3.387,10.043,14,13
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 045,Bus,18.528012,73.884364,3.463,9.967,13,14
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 046,Bus,18.526846,73.883834,3.54,9.89,13,14
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 047,Bus,18.525518,73.883403,3.616,9.814,15,13
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 048,Bus,18.524125,73.883293,3.692,9.738,14,11
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 049,Bus,18.524046,73.882233,3.769,9.661,14,11
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 050,Bus,18.524339,73.883974,3.845,9.585,13,13
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 051,Bus,18.524288,73.881348,3.921,9.509,15,13
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 052,Bus,18.52212,73.883101,3.997,9.433,15,14
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 053,Bus,18.521484,73.881913,4.074,9.356,15,15
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 054,Bus,18.522068,73.881063,4.15,9.28,16,12
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 055,Bus,18.52107,73.880514,4.226,9.204,15,12
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 056,Bus,18.519863,73.881581,4.303,9.127,16,15
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 057,Bus,18.518428,73.881422,4.379,9.051,15,13
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 058,Bus,18.519045,73.881256,4.455,8.975,15,17
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 059,Bus,18.518598,73.881649,4.532,8.898,16,16
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 060,Bus,18.517877,73.879959,4.608,8.822,16,14
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 061,Bus,18.517233,73.880481,4.684,8.746,17,18
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 062,Bus,18.516532,73.879823,4.76,8.67,17,17
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 063,Bus,18.51529,73.879005,4.837,8.593,16,15
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 064,Bus,18.514087,73.880679,4.913,8.517,17,18
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 065,Bus,18.513572,73.878469,4.989,8.441,17,17
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 066,Bus,18.513351,73.879483,5.066,8.364,17,17
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 067,Bus,18.513048,73.87951,5.142,8.288,17,16
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 068,Bus,18.512103,73.878479,5.218,8.212,18,17
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,Camp,Bus,18.511332,73.879716,5.295,8.135,17,17
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,Camp,Bus,18.51105,73.878248,5.295,8.135,18,14
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 071,Bus,18.512091,73.877755,5.371,8.059,19,18
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 072,Bus,18.51102,73.876744,5.447,7.983,18,19
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 073,Bus,18.510787,73.876154,5.524,7.906,18,19
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 074,Bus,18.511107,73.877464,5.6,7.83,18,20
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 075,Bus,18.509474,73.874024,5.676,7.754,18,18
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 076,Bus,18.509433,73.876608,5.753,7.677,19,22
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 077,Bus,18.508445,73.875279,5.829,7.601,18,18
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 078,Bus,18.510014,73.872949,5.905,7.525,19,16
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 079,Bus,18.508711,73.874119,5.982,7.448,19,21
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 080,Bus,18.507537,73.872077,6.058,7.372,19,22
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 081,Bus,18.506959,73.870852,6.134,7.296,19,19
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 082,Bus,18.506489,73.870109,6.211,7.219,20,23
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 083,Bus,18.506619,73.869896,6.287,7.143,21,20
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 084,Bus,18.506363,73.868691,6.363,7.067,21,21
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 085,Bus,18.506025,73.870027,6.44,6.99,20,24
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 086,Bus,18.503749,73.869083,6.516,6.914,21,21
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 087,Bus,18.50591,73.86724,6.592,6.838,21,20
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 088,Bus,18.50585,73.867967,6.669,6.761,22,23
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 089,Bus,18.503532,73.867011,6.745,6.685,22,23
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 090,Bus,18.504127,73.866541,6.821,6.609,21,22
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 091,Bus,18.503695,73.865167,6.898,6.532,21,25
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 092,Bus,18.502983,73.864197,6.974,6.456,22,21
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 093,Bus,18.502343,73.864029,7.05,6.38,22,25
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 094,Bus,18.501428,73.865165,7.127,6.303,22,25
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,Swargate Bus Stand,Bus,18.502473,73.864087,7.203,6.227,22,21
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,Swargate Bus Stand,Bus,18.500726,73.863347,7.203,6.227,22,21
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 097,Bus,18.501908,73.863545,7.279,6.151,22,24
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 098,Bus,18.50213,73.863577,7.355,6.075,23,22
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 099,Bus,18.499766,73.862846,7.431,5.999,23,23
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 100,Bus,18.499057,73.862803,7.506,5.924,24,22
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 101,Bus,18.498854,73.863522,7.582,5.848,22,22
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 102,Bus,18.496996,73.861523,7.658,5.772,23,23
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 103,Bus,18.495494,73.862825,7.734,5.696,23,25
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 104,Bus,18.495417,73.860528,7.809,5.621,24,25
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 105,Bus,18.495948,73.864076,7.885,5.545,24,23
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 106,Bus,18.49497,73.862583,7.961,5.469,25,29
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 107,Bus,18.494378,73.861665,8.037,5.393,24,22
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 108,Bus,18.494385,73.861343,8.113,5.317,25,24
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 109,Bus,18.493201,73.861664,8.188,5.242,26,26
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 110,Bus,18.491791,73.862031,8.264,5.166,25,29
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 111,Bus,18.491523,73.860464,8.34,5.09,26,30
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 112,Bus,18.491429,73.860181,8.416,5.014,25,29
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 113,Bus,18.49036,73.860724,8.492,4.938,26,27
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 114,Bus,18.490544,73.860942,8.567,4.863,25,27
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 115,Bus,18.488992,73.861048,8.643,4.787,25,29
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 116,Bus,18.489462,73.860671,8.719,4.711,26,26
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 117,Bus,18.487696,73.859007,8.795,4.635,26,29
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 118,Bus,18.486173,73.859643,8.87,4.56,27,33
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 119,Bus,18.485875,73.859569,8.946,4.484,27,29
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 120,Bus,18.485745,73.859974,9.022,4.408,27,33
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 121,Bus,18.484981,73.85977,9.098,4.332,26,30
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 122,Bus,18.484427,73.857632,9.174,4.256,28,28
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 123,Bus,18.482961,73.858928,9.249,4.181,27,31
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 124,Bus,18.482082,73.859355,9.325,4.105,27,31
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 125,Bus,18.483612,73.859681,9.401,4.029,27,29
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 126,Bus,18.481554,73.85973,9.477,3.953,29,33
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 127,Bus,18.481181,73.858099,9.553,3.877,28,35
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,Padmavati,Bus,18.479909,73.857958,9.628,3.802,29,29
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,Padmavati,Bus,18.480089,73.858336,9.628,3.802,28,30
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 130,Bus,18.479852,73.85831,9.704,3.726,28,33
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 131,Bus,18.479398,73.859369,9.78,3.65,28,35
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 132,Bus,18.479132,73.857336,9.856,3.574,28,31
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 133,Bus,18.475653,73.859379,9.932,3.498,29,34
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 134,Bus,18.475926,73.85856,10.008,3.422,28,36
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 135,Bus,18.475408,73.857406,10.084,3.346,29,37
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 136,Bus,18.476101,73.859563,10.16,3.27,29,38
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 137,Bus,18.474531,73.856991,10.236,3.194,29,30
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 138,Bus,18.473879,73.859485,10.313,3.117,30,38
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 139,Bus,18.472457,73.859427,10.389,3.041,29,31
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 140,Bus,18.472952,73.859851,10.465,2.965,30,29
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 141,Bus,18.472384,73.858718,10.541,2.889,30,36
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 142,Bus,18.472569,73.859477,10.617,2.813,30,34
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 143,Bus,18.470914,73.858965,10.693,2.737,30,33
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 144,Bus,18.469905,73.859112,10.769,2.661,30,31
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 145,Bus,18.469446,73.861297,10.845,2.585,31,35
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 146,Bus,18.46781,73.858745,10.921,2.509,31,36
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 147,Bus,18.469409,73.859977,10.997,2.433,31,32
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 148,Bus,18.467021,73.861084,11.073,2.357,31,31
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 149,Bus,18.466396,73.861821,11.149,2.281,32,32
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 150,Bus,18.466746,73.860078,11.225,2.205,33,39
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 151,Bus,18.467254,73.860091,11.301,2.129,31,35
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 152,Bus,18.465446,73.860923,11.377,2.053,33,34
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 153,Bus,18.465217,73.862041,11.453,1.977,32,37
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 154,Bus,18.463526,73.860297,11.529,1.901,32,41
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 155,Bus,18.463192,73.860466,11.605,1.825,33,40
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 156,Bus,18.463759,73.861225,11.681,1.749,33,39
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 157,Bus,18.46118,73.861372,11.757,1.673,32,38
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 158,Bus,18.459718,73.860555,11.833,1.597,34,37
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 159,Bus,18.46108,73.860914,11.909,1.521,34,36
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 160,Bus,18.458606,73.861977,11.985,1.445,34,40
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 161,Bus,18.459717,73.862231,12.061,1.369,34,44
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 162,Bus,18.458889,73.861159,12.137,1.293,35,37
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 163,Bus,18.456279,73.863073,12.213,1.217,34,38
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 164,Bus,18.456482,73.861779,12.289,1.141,35,38
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 165,Bus,18.457127,73.862533,12.365,1.065,34,37
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 166,Bus,18.455753,73.863928,12.441,0.989,35,40
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 167,Bus,18.454197,73.863046,12.517,0.913,36,36
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 168,Bus,18.454082,73.862627,12.593,0.837,34,40
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 169,Bus,18.454583,73.862926,12.669,0.761,35,38
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 170,Bus,18.453115,73.863486,12.745,0.685,36,40
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 171,Bus,18.451716,73.862065,12.821,0.609,36,45
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 172,Bus,18.450496,73.861271,12.897,0.533,36,42
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 173,Bus,18.452301,73.862069,12.973,0.457,36,46
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 174,Bus,18.449803,73.862839,13.049,0.381,36,43
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 175,Bus,18.44955,73.863821,13.125,0.305,37,38
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 176,Bus,18.449316,73.86281,13.202,0.228,37,42
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 177,Bus,18.447818,73.86361,13.278,0.152,36,46
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,PUN-KAT Stop 178,Bus,18.447077,73.864778,13.354,0.076,37,41
+Pune Railway Station–Katraj,Pune Railway Station,Katraj,Katraj End,Bus,18.446993,73.864188,13.43,0.0,38,39
+Swargate–Katraj,Swargate,Katraj,Swargate Start,Bus,18.501846,73.862232,0.0,6.69,5,0
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 001,Bus,18.500195,73.864112,0.037,6.653,5,0
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 002,Bus,18.501084,73.863287,0.075,6.615,6,2
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 003,Bus,18.500636,73.863629,0.112,6.578,6,3
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 004,Bus,18.499864,73.862645,0.149,6.541,5,0
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 005,Bus,18.500126,73.862402,0.187,6.503,5,1
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 006,Bus,18.49997,73.861739,0.224,6.466,6,1
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 007,Bus,18.50014,73.863397,0.261,6.429,6,2
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 008,Bus,18.499196,73.863722,0.298,6.392,5,1
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 009,Bus,18.499997,73.863664,0.336,6.354,6,0
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 010,Metro,18.496866,73.861746,0.373,6.317,5,1
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 011,Bus,18.497512,73.862707,0.41,6.28,6,2
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 012,Bus,18.4981,73.862022,0.448,6.242,6,3
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 013,Bus,18.497509,73.861916,0.485,6.205,7,0
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 014,Bus,18.496545,73.861312,0.522,6.168,6,1
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 015,Bus,18.495969,73.861272,0.56,6.13,6,1
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 016,Bus,18.495601,73.863114,0.597,6.093,6,2
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 017,Bus,18.495296,73.864294,0.634,6.056,7,4
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 018,Metro,18.496124,73.862252,0.672,6.018,6,3
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 019,Bus,18.494716,73.862582,0.709,5.981,6,2
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 020,Bus,18.494616,73.862036,0.746,5.944,7,2
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 021,Bus,18.496799,73.861779,0.784,5.906,6,2
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 022,Bus,18.495344,73.86121,0.821,5.869,8,2
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 023,Bus,18.49407,73.863106,0.858,5.832,6,5
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 024,Bus,18.493271,73.863056,0.895,5.795,7,3
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 025,Bus,18.494012,73.861073,0.933,5.757,8,5
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 026,Bus,18.493626,73.862218,0.97,5.72,8,2
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 027,Metro,18.493291,73.860101,1.007,5.683,7,2
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 028,Bus,18.491886,73.861076,1.045,5.645,8,4
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 029,Bus,18.492082,73.861687,1.082,5.608,8,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 030,Bus,18.491958,73.860039,1.119,5.571,8,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 031,Metro,18.491793,73.861513,1.157,5.533,8,3
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 032,Bus,18.491611,73.861806,1.194,5.496,9,2
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 033,Metro,18.491504,73.861226,1.231,5.459,8,2
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 034,Bus,18.490455,73.859447,1.269,5.421,7,4
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 035,Bus,18.490528,73.860858,1.306,5.384,8,4
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 036,Bus,18.490076,73.859588,1.343,5.347,8,2
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 037,Bus,18.488667,73.861369,1.38,5.31,9,3
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 038,Bus,18.489175,73.860988,1.418,5.272,8,4
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 039,Bus,18.488903,73.860384,1.455,5.235,9,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 040,Bus,18.489304,73.859864,1.492,5.198,8,7
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 041,Bus,18.488305,73.859824,1.53,5.16,9,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 042,Bus,18.487554,73.859863,1.567,5.123,9,5
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 043,Bus,18.487753,73.859645,1.604,5.086,10,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 044,Bus,18.488254,73.859229,1.642,5.048,9,5
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 045,Metro,18.486774,73.85951,1.679,5.011,8,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 046,Bus,18.487755,73.859936,1.716,4.974,10,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 047,Bus,18.487096,73.858507,1.754,4.936,8,3
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 048,Bus,18.486158,73.860324,1.791,4.899,8,4
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 049,Bus,18.485684,73.860382,1.828,4.862,10,7
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 050,Bus,18.484878,73.860574,1.865,4.825,10,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 051,Bus,18.486805,73.859073,1.903,4.787,9,5
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 052,Bus,18.484284,73.860443,1.94,4.75,9,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 053,Bus,18.485578,73.858779,1.977,4.713,9,8
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 054,Bus,18.483652,73.858888,2.015,4.675,10,8
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 055,Bus,18.482586,73.858296,2.052,4.638,10,7
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 056,Bus,18.482532,73.858333,2.089,4.601,10,5
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 057,Bus,18.482981,73.859052,2.127,4.563,10,9
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 058,Metro,18.483923,73.857983,2.164,4.526,10,5
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 059,Bus,18.483144,73.858527,2.201,4.489,11,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 060,Bus,18.481991,73.859155,2.239,4.451,11,5
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 061,Bus,18.480806,73.858838,2.276,4.414,10,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 062,Bus,18.481512,73.858843,2.313,4.377,12,9
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 063,Metro,18.481284,73.86033,2.351,4.339,11,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 064,Bus,18.480216,73.857858,2.388,4.302,11,7
+Swargate–Katraj,Swargate,Katraj,Padmavati,Bus,18.479901,73.857756,2.425,4.265,10,6
+Swargate–Katraj,Swargate,Katraj,Padmavati,Bus,18.47989,73.859151,2.425,4.265,11,8
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 067,Bus,18.481204,73.857669,2.463,4.227,10,7
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 068,Bus,18.479068,73.858429,2.501,4.189,10,7
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 069,Bus,18.47896,73.858483,2.539,4.151,11,8
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 070,Bus,18.479231,73.85669,2.576,4.114,12,9
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 071,Bus,18.479974,73.859265,2.614,4.076,10,10
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 072,Metro,18.477913,73.857444,2.652,4.038,11,9
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 073,Bus,18.478299,73.857948,2.69,4.0,11,11
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 074,Bus,18.478264,73.859214,2.728,3.962,11,10
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 075,Bus,18.477263,73.856893,2.766,3.924,11,8
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 076,Bus,18.475968,73.856872,2.803,3.887,12,10
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 077,Bus,18.476712,73.858819,2.841,3.849,11,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 078,Bus,18.475992,73.857488,2.879,3.811,13,7
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 079,Metro,18.47606,73.858185,2.917,3.773,12,10
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 080,Bus,18.477762,73.856735,2.955,3.735,13,6
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 081,Bus,18.475016,73.857921,2.993,3.697,12,12
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 082,Bus,18.47562,73.858489,3.03,3.66,12,8
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 083,Bus,18.475209,73.85665,3.068,3.622,12,10
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 084,Bus,18.474881,73.85775,3.106,3.584,12,8
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 085,Metro,18.474732,73.857194,3.144,3.546,12,8
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 086,Bus,18.474596,73.85765,3.182,3.508,12,10
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 087,Bus,18.474516,73.857159,3.22,3.47,13,7
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 088,Metro,18.472943,73.856683,3.257,3.433,14,10
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 089,Metro,18.473709,73.855838,3.295,3.395,13,11
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 090,Bus,18.472706,73.856102,3.333,3.357,12,9
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 091,Bus,18.472102,73.857366,3.371,3.319,13,9
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 092,Bus,18.471899,73.856306,3.409,3.281,14,8
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 093,Bus,18.470325,73.856791,3.447,3.243,14,12
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 094,Bus,18.471596,73.857851,3.484,3.206,14,9
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 095,Bus,18.470501,73.856221,3.522,3.168,13,10
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 096,Bus,18.470614,73.857233,3.56,3.13,14,9
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 097,Bus,18.470005,73.85612,3.598,3.092,13,9
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 098,Bus,18.470235,73.855972,3.636,3.054,14,9
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 099,Bus,18.469059,73.855904,3.674,3.016,13,11
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 100,Bus,18.469942,73.854853,3.711,2.979,14,10
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 101,Bus,18.468856,73.85504,3.749,2.941,14,9
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 102,Bus,18.469373,73.854307,3.787,2.903,14,12
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 103,Bus,18.467637,73.855753,3.825,2.865,13,12
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 104,Metro,18.469004,73.855325,3.863,2.827,13,9
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 105,Bus,18.466974,73.856808,3.901,2.789,14,11
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 106,Bus,18.465927,73.85347,3.938,2.752,14,12
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 107,Bus,18.467105,73.854753,3.976,2.714,14,12
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 108,Bus,18.465603,73.855647,4.014,2.676,14,13
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 109,Bus,18.466282,73.854554,4.052,2.638,15,11
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 110,Bus,18.46473,73.855629,4.09,2.6,14,13
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 111,Bus,18.465942,73.854778,4.128,2.562,15,14
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 112,Bus,18.466566,73.853927,4.165,2.525,15,9
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 113,Bus,18.463535,73.854155,4.203,2.487,15,16
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 114,Bus,18.464386,73.854829,4.241,2.449,16,15
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 115,Bus,18.463897,73.854842,4.279,2.411,14,14
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 116,Metro,18.462756,73.855641,4.317,2.373,16,12
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 117,Bus,18.463359,73.855305,4.355,2.335,15,11
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 118,Bus,18.463366,73.854703,4.392,2.298,16,11
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 119,Bus,18.463214,73.854621,4.43,2.26,16,12
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 120,Bus,18.46294,73.855252,4.468,2.222,16,11
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 121,Metro,18.46225,73.854681,4.506,2.184,16,14
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 122,Bus,18.461688,73.855192,4.544,2.146,15,12
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 123,Bus,18.460886,73.855406,4.582,2.108,16,13
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 124,Bus,18.461062,73.852747,4.619,2.071,16,11
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 125,Bus,18.460864,73.853272,4.657,2.033,16,16
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 126,Metro,18.461101,73.853221,4.695,1.995,17,16
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 127,Bus,18.459739,73.852157,4.733,1.957,16,15
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 128,Bus,18.459401,73.851655,4.771,1.919,15,12
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 129,Bus,18.458163,73.854128,4.809,1.881,16,14
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 130,Bus,18.459726,73.853786,4.846,1.844,16,13
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 131,Bus,18.457991,73.853333,4.884,1.806,16,16
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 132,Bus,18.458429,73.85237,4.922,1.768,16,13
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 133,Bus,18.459301,73.853925,4.96,1.73,18,13
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 134,Bus,18.457589,73.85317,4.998,1.692,17,13
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 135,Metro,18.4576,73.851441,5.036,1.654,17,16
+Swargate–Katraj,Swargate,Katraj,Bharati Vidyapeeth,Bus,18.456902,73.852454,5.073,1.617,17,13
+Swargate–Katraj,Swargate,Katraj,Bharati Vidyapeeth,Bus,18.456299,73.852775,5.073,1.617,18,15
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 138,Bus,18.458288,73.853765,5.112,1.578,18,15
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 139,Metro,18.456143,73.853963,5.15,1.54,18,14
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 140,Bus,18.457469,73.854497,5.189,1.501,18,15
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 141,Metro,18.456148,73.853492,5.227,1.463,17,16
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 142,Bus,18.456409,73.854577,5.266,1.424,18,13
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 143,Bus,18.456316,73.855022,5.304,1.386,18,16
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 144,Bus,18.45619,73.854338,5.343,1.347,18,14
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 145,Bus,18.456154,73.855177,5.381,1.309,17,14
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 146,Bus,18.45651,73.85472,5.42,1.27,18,16
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 147,Metro,18.455989,73.855682,5.458,1.232,17,13
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 148,Bus,18.453829,73.855389,5.497,1.193,18,16
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 149,Bus,18.453844,73.856368,5.535,1.155,19,18
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 150,Bus,18.454268,73.855822,5.574,1.116,19,15
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 151,Bus,18.453581,73.858247,5.612,1.078,19,19
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 152,Bus,18.454732,73.857135,5.651,1.039,18,17
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 153,Bus,18.45313,73.857134,5.689,1.001,18,15
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 154,Metro,18.453341,73.856472,5.728,0.962,18,14
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 155,Bus,18.452394,73.856208,5.766,0.924,20,17
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 156,Bus,18.452669,73.858313,5.805,0.885,19,16
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 157,Bus,18.451713,73.859307,5.843,0.847,19,16
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 158,Bus,18.450869,73.857129,5.882,0.808,18,15
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 159,Bus,18.45178,73.85939,5.92,0.77,20,15
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 160,Bus,18.452697,73.858438,5.959,0.731,19,15
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 161,Bus,18.451963,73.859026,5.997,0.693,19,20
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 162,Bus,18.450712,73.860016,6.036,0.654,20,15
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 163,Bus,18.451122,73.858301,6.074,0.616,19,19
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 164,Bus,18.451531,73.860918,6.113,0.577,20,18
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 165,Bus,18.4496,73.860383,6.151,0.539,19,19
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 166,Bus,18.450245,73.860528,6.19,0.5,20,16
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 167,Metro,18.44916,73.860034,6.228,0.462,21,20
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 168,Metro,18.44933,73.861762,6.267,0.423,20,16
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 169,Bus,18.449535,73.86078,6.305,0.385,20,17
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 170,Bus,18.449467,73.85905,6.344,0.346,21,17
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 171,Bus,18.449519,73.860189,6.382,0.308,21,20
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 172,Bus,18.44806,73.860938,6.421,0.269,20,15
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 173,Bus,18.447064,73.863014,6.459,0.231,21,19
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 174,Bus,18.447476,73.862615,6.497,0.193,21,18
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 175,Bus,18.447562,73.862972,6.536,0.154,21,21
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 176,Bus,18.447411,73.861816,6.574,0.116,20,17
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 177,Bus,18.447897,73.8627,6.613,0.077,22,22
+Swargate–Katraj,Swargate,Katraj,SWA-KAT Stop 178,Bus,18.445605,73.863005,6.651,0.039,21,20
+Swargate–Katraj,Swargate,Katraj,Katraj End,Bus,18.447801,73.86428,6.69,0.0,20,19
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Start,Bus,18.501997,73.863489,0.0,5.978,5,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 001,Bus,18.502094,73.864495,0.034,5.944,5,2
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 002,Metro,18.501365,73.862765,0.068,5.91,6,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 003,Bus,18.502792,73.863243,0.103,5.875,5,1
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 004,Bus,18.501129,73.862739,0.137,5.841,6,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 005,Bus,18.50111,73.861608,0.171,5.807,5,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 006,Bus,18.501651,73.860127,0.205,5.773,6,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 007,Bus,18.500053,73.860884,0.24,5.738,5,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 008,Metro,18.500599,73.861261,0.274,5.704,5,1
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 009,Bus,18.500659,73.859556,0.308,5.67,6,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 010,Metro,18.502534,73.860181,0.342,5.636,7,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 011,Bus,18.501392,73.858898,0.377,5.601,7,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 012,Bus,18.500879,73.859803,0.411,5.567,6,1
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 013,Metro,18.50037,73.859691,0.445,5.533,5,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 014,Bus,18.500786,73.858833,0.479,5.499,6,2
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 015,Bus,18.500761,73.860225,0.514,5.464,6,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 016,Bus,18.501208,73.857573,0.548,5.43,6,1
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 017,Bus,18.501853,73.857119,0.582,5.396,6,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 018,Bus,18.501339,73.856204,0.616,5.362,7,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 019,Bus,18.500085,73.857605,0.651,5.327,7,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 020,Metro,18.501715,73.857261,0.685,5.293,6,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Sarasbaug,Bus,18.501007,73.856559,0.719,5.259,6,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Sarasbaug,Bus,18.499917,73.856224,0.719,5.259,6,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 023,Bus,18.500954,73.857427,0.753,5.225,6,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 024,Bus,18.501821,73.854952,0.787,5.191,7,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 025,Bus,18.502028,73.855836,0.821,5.157,8,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 026,Bus,18.50145,73.856415,0.855,5.123,7,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 027,Bus,18.503039,73.856452,0.888,5.09,7,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 028,Bus,18.501766,73.855241,0.922,5.056,6,6
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 029,Metro,18.502925,73.85605,0.956,5.022,8,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 030,Metro,18.5025,73.854903,0.99,4.988,7,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 031,Bus,18.502221,73.853876,1.024,4.954,8,2
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 032,Bus,18.503979,73.855699,1.058,4.92,8,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 033,Bus,18.503494,73.855199,1.091,4.887,9,2
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 034,Bus,18.504064,73.853661,1.125,4.853,8,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 035,Bus,18.504286,73.855189,1.159,4.819,9,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 036,Bus,18.504191,73.854992,1.193,4.785,7,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 037,Bus,18.502347,73.854179,1.227,4.751,8,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 038,Bus,18.504735,73.853064,1.261,4.717,8,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 039,Bus,18.504962,73.851494,1.295,4.683,9,2
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 040,Bus,18.504936,73.853151,1.328,4.65,8,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 041,Bus,18.506517,73.852233,1.362,4.616,9,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 042,Bus,18.50491,73.852027,1.396,4.582,9,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 043,Bus,18.506512,73.852473,1.43,4.548,7,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 044,Metro,18.505579,73.852402,1.464,4.514,9,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 045,Bus,18.506303,73.852548,1.498,4.48,9,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 046,Bus,18.505887,73.851292,1.531,4.447,8,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 047,Metro,18.506358,73.850165,1.565,4.413,9,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 048,Bus,18.507131,73.851326,1.599,4.379,8,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 049,Metro,18.507121,73.850711,1.633,4.345,10,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 050,Bus,18.506208,73.850343,1.667,4.311,8,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 051,Bus,18.507289,73.84982,1.701,4.277,10,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 052,Bus,18.507657,73.850566,1.734,4.244,8,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 053,Bus,18.509518,73.850164,1.768,4.21,10,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 054,Bus,18.508437,73.849746,1.802,4.176,10,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 055,Bus,18.506919,73.849566,1.836,4.142,9,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 056,Bus,18.508725,73.851339,1.87,4.108,9,6
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 057,Bus,18.508746,73.849391,1.904,4.074,9,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 058,Bus,18.509095,73.847996,1.937,4.041,9,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 059,Bus,18.51026,73.849314,1.971,4.007,10,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 060,Bus,18.510201,73.847767,2.005,3.973,10,10
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 061,Bus,18.510914,73.847154,2.039,3.939,10,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 062,Bus,18.510484,73.84981,2.073,3.905,11,10
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 063,Bus,18.509445,73.847386,2.107,3.871,10,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 064,Bus,18.51054,73.847217,2.141,3.837,11,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 065,Bus,18.509442,73.847456,2.174,3.804,10,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 066,Bus,18.510056,73.847562,2.208,3.77,10,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 067,Bus,18.510393,73.848204,2.242,3.736,11,9
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 068,Bus,18.510725,73.846488,2.276,3.702,11,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 069,Bus,18.512225,73.845542,2.31,3.668,10,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 070,Metro,18.511979,73.847354,2.344,3.634,10,9
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 071,Bus,18.510734,73.846238,2.377,3.601,10,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 072,Bus,18.512451,73.846497,2.411,3.567,11,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 073,Bus,18.511476,73.844596,2.445,3.533,11,9
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 074,Bus,18.513106,73.845672,2.479,3.499,12,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 075,Bus,18.513112,73.845493,2.513,3.465,11,9
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 076,Bus,18.51259,73.845183,2.547,3.431,11,10
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 077,Bus,18.513592,73.844207,2.58,3.398,11,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 078,Bus,18.515073,73.844939,2.614,3.364,11,10
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 079,Bus,18.51285,73.844867,2.648,3.33,11,10
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 080,Bus,18.513246,73.844753,2.682,3.296,12,11
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 081,Bus,18.515175,73.843248,2.716,3.262,12,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 082,Bus,18.515242,73.844016,2.75,3.228,11,9
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 083,Bus,18.515352,73.844985,2.784,3.194,12,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 084,Bus,18.514721,73.842646,2.817,3.161,12,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 085,Bus,18.514428,73.842377,2.851,3.127,12,9
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 086,Bus,18.515301,73.843084,2.885,3.093,12,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 087,Bus,18.515807,73.843255,2.919,3.059,13,11
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 088,Bus,18.515819,73.843537,2.953,3.025,11,10
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 089,Bus,18.51582,73.844332,2.987,2.991,11,13
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 090,Bus,18.516755,73.841251,3.02,2.958,12,11
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 091,Metro,18.51562,73.842105,3.054,2.924,13,13
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Deccan Gymkhana,Bus,18.516521,73.842071,3.088,2.89,13,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Deccan Gymkhana,Bus,18.517079,73.841442,3.088,2.89,12,10
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 094,Metro,18.516306,73.84043,3.123,2.855,13,10
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 095,Metro,18.516909,73.842468,3.158,2.82,12,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 096,Bus,18.517721,73.840928,3.193,2.785,13,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 097,Bus,18.517972,73.842375,3.228,2.75,12,11
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 098,Bus,18.51741,73.842331,3.262,2.716,12,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 099,Metro,18.518447,73.841436,3.297,2.681,12,13
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 100,Bus,18.51897,73.84294,3.332,2.646,13,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 101,Bus,18.519833,73.843476,3.367,2.611,13,10
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 102,Bus,18.518148,73.842025,3.402,2.576,13,11
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 103,Bus,18.519945,73.843328,3.437,2.541,14,13
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 104,Bus,18.520229,73.846141,3.472,2.506,13,13
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 105,Metro,18.520557,73.844108,3.506,2.472,14,14
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 106,Bus,18.521147,73.843863,3.541,2.437,13,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 107,Bus,18.520414,73.844091,3.576,2.402,14,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 108,Bus,18.520332,73.843436,3.611,2.367,14,13
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 109,Bus,18.520845,73.843832,3.646,2.332,14,11
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 110,Bus,18.523368,73.842415,3.681,2.297,14,14
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 111,Metro,18.522349,73.84276,3.716,2.262,13,13
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 112,Bus,18.521706,73.845063,3.751,2.227,13,11
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 113,Bus,18.522418,73.843471,3.785,2.193,14,14
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 114,Bus,18.522078,73.845019,3.82,2.158,14,15
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 115,Bus,18.522349,73.84479,3.855,2.123,14,14
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 116,Bus,18.523253,73.844237,3.89,2.088,14,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,JM Road,Bus,18.525215,73.845407,3.925,2.053,14,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,JM Road,Bus,18.52188,73.845049,3.925,2.053,15,14
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 119,Bus,18.523266,73.845691,3.96,2.018,15,11
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 120,Bus,18.523457,73.845026,3.995,1.983,14,13
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 121,Bus,18.52479,73.84592,4.029,1.949,15,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 122,Bus,18.523722,73.845069,4.064,1.914,15,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 123,Bus,18.524597,73.844923,4.099,1.879,15,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 124,Bus,18.526685,73.845879,4.134,1.844,16,11
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 125,Bus,18.524559,73.846398,4.169,1.809,14,16
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 126,Bus,18.527561,73.846599,4.203,1.775,16,16
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 127,Bus,18.524944,73.845494,4.238,1.74,14,15
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 128,Bus,18.527468,73.845425,4.273,1.705,14,16
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 129,Bus,18.527105,73.84672,4.308,1.67,16,18
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 130,Bus,18.526304,73.846161,4.343,1.635,16,15
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 131,Metro,18.524748,73.845499,4.377,1.601,15,14
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 132,Bus,18.527434,73.845429,4.412,1.566,16,12
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 133,Metro,18.529238,73.845392,4.447,1.531,17,17
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 134,Bus,18.527875,73.84675,4.482,1.496,16,17
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 135,Bus,18.529676,73.845606,4.517,1.461,17,18
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 136,Bus,18.529749,73.846872,4.551,1.427,16,15
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 137,Bus,18.528328,73.847342,4.586,1.392,16,18
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 138,Metro,18.529568,73.846602,4.621,1.357,17,19
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 139,Bus,18.52976,73.846883,4.656,1.322,16,17
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Shivaji Nagar Bus Stand,Bus,18.530091,73.84783,4.691,1.287,16,20
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Shivaji Nagar Bus Stand,Bus,18.531269,73.84631,4.691,1.287,16,19
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 142,Bus,18.531851,73.846023,4.725,1.253,16,16
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 143,Metro,18.530169,73.848341,4.759,1.219,16,20
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 144,Bus,18.53066,73.847657,4.793,1.185,16,16
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 145,Metro,18.530414,73.848046,4.827,1.151,17,17
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 146,Bus,18.530254,73.849405,4.861,1.117,17,14
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 147,Bus,18.531156,73.848456,4.895,1.083,16,15
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 148,Metro,18.531735,73.849541,4.929,1.049,17,17
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 149,Bus,18.53181,73.850084,4.963,1.015,17,15
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 150,Bus,18.530642,73.849417,4.998,0.98,17,17
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 151,Bus,18.532048,73.850638,5.032,0.946,16,16
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 152,Bus,18.531578,73.850529,5.066,0.912,17,15
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 153,Bus,18.532762,73.850247,5.1,0.878,17,19
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 154,Bus,18.532323,73.850843,5.134,0.844,18,16
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 155,Bus,18.531856,73.852169,5.168,0.81,17,17
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 156,Bus,18.532835,73.852226,5.202,0.776,17,20
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 157,Bus,18.533364,73.851877,5.236,0.742,17,17
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 158,Bus,18.533011,73.851897,5.27,0.708,18,21
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 159,Bus,18.532869,73.852326,5.304,0.674,18,17
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 160,Bus,18.532833,73.853191,5.339,0.639,18,17
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Civil Court Metro,Metro,18.532245,73.854674,5.373,0.605,17,17
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Civil Court Metro,Metro,18.532095,73.852029,5.373,0.605,19,17
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 163,Bus,18.533691,73.853327,5.408,0.57,18,19
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 164,Bus,18.533129,73.852891,5.444,0.534,18,22
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 165,Metro,18.532484,73.851365,5.479,0.499,17,18
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 166,Bus,18.532419,73.851235,5.515,0.463,19,20
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 167,Bus,18.533004,73.851353,5.551,0.427,18,21
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 168,Bus,18.531428,73.850908,5.586,0.392,19,20
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 169,Bus,18.532283,73.850408,5.622,0.356,19,21
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 170,Bus,18.53116,73.850748,5.657,0.321,18,21
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 171,Metro,18.531878,73.849842,5.693,0.285,18,19
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 172,Bus,18.53117,73.850127,5.729,0.249,18,20
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 173,Bus,18.530253,73.848509,5.764,0.214,18,22
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 174,Bus,18.530702,73.849159,5.8,0.178,19,21
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 175,Bus,18.53139,73.850204,5.835,0.143,20,20
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 176,Metro,18.531692,73.84859,5.871,0.107,19,18
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 177,Bus,18.530855,73.84761,5.906,0.072,19,22
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,SWA-SHI Stop 178,Bus,18.53072,73.847875,5.942,0.036,20,20
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Shivaji Nagar End,Bus,18.530858,73.847138,5.978,0.0,19,20
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 001,Bus,18.507426373745854,73.80763796088239,0.0,13.636,5,0
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 002,Bus,18.51853377230219,73.80693700916862,1.24,12.396,6,3
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 003,Bus,18.529621114063485,73.80615394369767,2.479,11.157,6,6
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 004,Metro,18.5407654466923,73.80551364662205,3.719,9.917,7,9
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 005,Bus,18.55193113842883,73.80473574575153,4.959,8.678,7,12
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 006,Bus,18.563035251409875,73.80402813688558,6.198,7.438,8,15
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 007,Bus,18.57417323121527,73.8033202129098,7.438,6.198,9,18
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 008,Bus,18.585277426364275,73.80259600659139,8.678,4.959,9,21
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 009,Bus,18.596402802399663,73.80187781810804,9.917,3.719,10,24
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 010,Bus,18.607544678909644,73.80115441676111,11.157,2.479,11,27
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 011,Bus,18.618682323175506,73.80039208356177,12.396,1.24,11,30
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 012,Bus,18.6298014056477,73.79971140743858,13.636,0.0,12,33
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 001,Bus,18.501055424348728,73.86268600323699,0.0,3.678,5,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 002,Bus,18.50292177748504,73.86170025352095,0.23,3.448,5,1
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 003,Bus,18.50478222336231,73.86082356046755,0.46,3.218,5,1
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 004,Bus,18.506624964803713,73.85986422253241,0.69,2.988,5,2
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 005,Bus,18.508519824677872,73.8588499933211,0.92,2.759,5,2
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 006,Bus,18.510372886372977,73.85797028183858,1.149,2.529,6,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 007,Bus,18.51219398552947,73.85699304902013,1.379,2.299,6,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 008,Metro,18.51406907496351,73.85603437481865,1.609,2.069,6,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 009,Bus,18.515960121316546,73.85508631288134,1.839,1.839,6,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 010,Bus,18.517770482752262,73.85410607972781,2.069,1.609,6,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 011,Bus,18.51965051413683,73.85320741792464,2.299,1.379,6,6
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 012,Bus,18.521536151208082,73.85220325357503,2.529,1.149,6,6
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 013,Bus,18.523385829617453,73.85124203440454,2.759,0.92,6,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 014,Bus,18.52523968800499,73.8503020451994,2.989,0.69,6,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 015,Bus,18.527098678329406,73.84938274065716,3.218,0.46,7,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 016,Bus,18.528946972311683,73.84839829030157,3.448,0.23,7,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 017,Bus,18.530861458712717,73.84744979036283,3.678,0.0,7,9
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 001,Bus,18.52884031188952,73.8744466160314,0.0,6.296,5,0
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 002,Bus,18.524600939362053,73.88176752544038,0.899,5.397,5,2
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 003,Bus,18.520433900453426,73.88906201896141,1.799,4.497,6,4
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 004,Bus,18.516259175071518,73.89640536791825,2.698,3.598,6,6
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 005,Bus,18.512090008657616,73.90368624012054,3.598,2.698,7,9
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 006,Bus,18.507880777904244,73.91102195481685,4.497,1.799,7,11
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 007,Bus,18.503721364617526,73.91829496523151,5.397,0.899,8,13
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 008,Bus,18.499540403315986,73.92557227376042,6.296,0.0,8,15
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 001,Bus,18.528793416830183,73.87447925464028,0.0,6.839,5,0
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 002,Metro,18.530364896162027,73.87881929384221,0.489,6.351,5,1
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 003,Bus,18.53199116149271,73.88309952933687,0.977,5.862,5,2
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 004,Bus,18.53354224973055,73.88746109582796,1.466,5.374,6,4
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 005,Metro,18.53517310140062,73.89176093783739,1.954,4.885,6,5
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 006,Bus,18.53673502043188,73.89608711690677,2.443,4.397,6,6
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 007,Bus,18.538284564678534,73.90038843279255,2.931,3.908,6,7
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 008,Bus,18.539915005895637,73.90469539341974,3.42,3.42,7,8
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 009,Bus,18.54145827981882,73.90905080130075,3.908,2.931,7,9
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 010,Bus,18.543022144612106,73.91338232468212,4.397,2.443,7,11
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 011,Bus,18.544624009568732,73.91771129083894,4.885,1.954,7,12
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 012,Bus,18.546230849224113,73.92202311717945,5.374,1.466,8,13
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 013,Bus,18.547815159901027,73.92631813221018,5.862,0.977,8,14
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 014,Bus,18.549400748608466,73.93069142218921,6.351,0.489,8,15
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 015,Bus,18.55096129393616,73.93499395858717,6.839,0.0,8,16
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 001,Bus,18.626051665214966,73.81214381114387,0.0,4.001,5,0
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 002,Bus,18.62687928162002,73.81449771070547,0.267,3.735,5,1
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 003,Bus,18.62772166227579,73.81686031262151,0.534,3.468,5,1
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 004,Bus,18.628588346338123,73.81924683382708,0.8,3.201,5,2
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 005,Bus,18.62940364665209,73.82165676591485,1.067,2.934,6,3
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 006,Bus,18.63021723903818,73.82404861458038,1.334,2.668,6,3
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 007,Bus,18.63107628599182,73.8264007978632,1.601,2.401,6,4
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 008,Metro,18.631913091487647,73.82874136454167,1.867,2.134,6,4
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 009,Bus,18.632707023589365,73.8311778447806,2.134,1.867,6,5
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 010,Metro,18.633533131743672,73.83352998962748,2.401,1.601,6,6
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 011,Bus,18.63439514672723,73.83595028216212,2.668,1.334,6,6
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 012,Metro,18.635188961183054,73.83830440741279,2.934,1.067,6,7
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 013,Bus,18.636064624625263,73.84067444744313,3.201,0.8,7,8
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 014,Bus,18.63684589051017,73.84307748354263,3.468,0.534,7,8
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 015,Bus,18.637692284050164,73.84544218833986,3.735,0.267,7,9
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 016,Bus,18.63851910039592,73.8478014804345,4.001,0.0,7,10
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 001,Bus,18.507417983436863,73.80760839706183,0.0,7.437,5,0
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 002,Bus,18.50864053190264,73.81157550890084,0.437,6.999,5,1
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 003,Bus,18.5099164467259,73.8155077246857,0.875,6.562,5,2
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 004,Bus,18.511184814370527,73.81943451333989,1.312,6.124,6,3
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 005,Bus,18.512415866911436,73.82335298734232,1.75,5.687,6,4
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 006,Bus,18.51368936813953,73.82728343132091,2.187,5.249,6,5
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 007,Bus,18.514927321570372,73.83124066254057,2.625,4.812,6,6
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 008,Bus,18.516220611434083,73.8351647716408,3.062,4.375,7,7
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 009,Bus,18.517481332430165,73.83909604321846,3.5,3.937,7,8
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 010,Bus,18.518733764982382,73.84302696489887,3.937,3.5,7,9
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 011,Bus,18.520000253166696,73.8469573881818,4.375,3.062,7,10
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 012,Bus,18.521241863311207,73.85091465662737,4.812,2.625,7,12
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 013,Metro,18.522512640129463,73.8548287990493,5.25,2.187,8,13
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 014,Metro,18.523790789576125,73.85871786293093,5.687,1.75,8,14
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 015,Bus,18.525019005766246,73.86266539727222,6.125,1.312,8,15
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 016,Bus,18.526282347874968,73.86665606326565,6.562,0.875,8,16
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 017,Bus,18.52754479246754,73.87052490686449,6.999,0.437,8,17
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 018,Bus,18.528835441280716,73.87445652764596,7.437,0.0,9,18
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 001,Metro,18.501066721382347,73.86267058677352,0.0,9.43,5,0
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 002,Bus,18.504909955351057,73.8682123233535,0.725,8.704,5,2
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 003,Metro,18.508767947991203,73.87379820235266,1.451,7.979,6,3
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 004,Bus,18.512605613512754,73.87936299873421,2.176,7.253,6,5
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 005,Bus,18.516431637171316,73.8849245749325,2.902,6.528,6,7
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 006,Bus,18.520261939377942,73.8905114346891,3.627,5.803,7,9
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 007,Bus,18.52405876539245,73.89605397376302,4.352,5.077,7,10
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 008,Metro,18.527924746961094,73.90164011476931,5.078,4.352,8,12
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 009,Bus,18.53176642009959,73.90720241927393,5.803,3.627,8,14
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 010,Bus,18.535632872431865,73.91274173740378,6.528,2.901,8,16
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 011,Bus,18.539477118094275,73.91830557439621,7.254,2.176,9,17
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 012,Metro,18.54331101772281,73.92385169091513,7.979,1.451,9,19
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 013,Bus,18.547152573705027,73.92940276172051,8.704,0.725,9,21
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 014,Bus,18.550981919389173,73.93495225759227,9.43,0.0,10,23
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 001,Bus,18.499525473108875,73.92557841679694,0.0,19.644,5,0
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 002,Bus,18.50951431577905,73.91591330236238,1.511,18.133,6,4
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 003,Bus,18.519585561517886,73.90621693969594,3.023,16.622,7,7
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 004,Bus,18.529634569397583,73.8965208488897,4.534,15.11,7,11
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 005,Bus,18.53962675602018,73.88684648323729,6.045,13.599,8,15
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 006,Bus,18.54965139994649,73.87716888614024,7.556,12.088,9,18
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 007,Bus,18.559635900797172,73.86751277695262,9.068,10.577,10,22
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 008,Metro,18.56969000575017,73.85780880811252,10.579,9.066,10,25
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 009,Bus,18.579697920375317,73.84810626036608,12.09,7.555,11,29
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 010,Bus,18.589662924673313,73.83846343251706,13.601,6.044,12,33
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 011,Bus,18.599776388923406,73.82873699469468,15.112,4.533,13,36
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 012,Bus,18.609788605711902,73.8190617834758,16.623,3.022,13,40
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 013,Bus,18.61973118535458,73.80939153580441,18.134,1.511,14,44
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 014,Bus,18.629789624855416,73.79972071814501,19.644,0.0,15,47
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 001,Bus,18.528778706133195,73.87449044500802,0.0,12.655,5,0
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 002,Bus,18.534496270903247,73.87080840380098,0.744,11.91,5,2
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 003,Bus,18.540216310498415,73.86713237707646,1.489,11.166,6,4
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 004,Bus,18.54598751878539,73.86352028486814,2.233,10.421,6,5
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 005,Bus,18.551666443971406,73.8598058026032,2.978,9.677,6,7
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 006,Bus,18.557421719558537,73.85615486971801,3.722,8.932,7,9
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 007,Bus,18.56312382196252,73.85248305713615,4.467,8.188,7,11
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 008,Metro,18.568827885826447,73.84879969415245,5.211,7.444,8,13
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 009,Bus,18.574565852803012,73.84516177046844,5.955,6.699,8,14
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 010,Bus,18.580313517018638,73.8414752517927,6.7,5.955,8,16
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 011,Bus,18.586011629154633,73.83783490418628,7.444,5.21,9,18
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 012,Bus,18.591753626309277,73.83415783936202,8.188,4.466,9,20
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 013,Bus,18.597433780871953,73.83051903881905,8.933,3.722,9,21
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 014,Bus,18.603200651636712,73.82683846356329,9.677,2.977,10,23
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 015,Bus,18.608894758540195,73.82315349568964,10.422,2.233,10,25
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 016,Bus,18.614687435550653,73.81950492391798,11.166,1.489,11,27
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 017,Bus,18.62037866838204,73.81582058664726,11.91,0.744,11,29
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 018,Bus,18.626060940086525,73.81217780436037,12.655,0.0,11,30
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 001,Bus,18.530821738675147,73.84747799578894,0.0,4.941,5,0
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 002,Metro,18.52917528039687,73.84463577109678,0.353,4.588,5,1
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 003,Bus,18.527500474807713,73.84174754587441,0.706,4.235,5,2
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 004,Metro,18.525812299215314,73.8389553396351,1.059,3.882,6,3
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 005,Metro,18.52410084914861,73.83609840194904,1.412,3.529,6,3
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 006,Bus,18.522462558666945,73.83326325128976,1.764,3.176,6,4
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 007,Bus,18.52072992530198,73.83042121515116,2.117,2.823,6,5
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 008,Bus,18.51909709555501,73.82755788487727,2.47,2.47,6,6
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 009,Bus,18.517436233759664,73.8247218504717,2.823,2.117,6,7
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 010,Bus,18.515738413482378,73.82189173199367,3.176,1.765,7,8
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 011,Bus,18.51404909293586,73.81900635103409,3.529,1.412,7,8
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 012,Bus,18.512404515984084,73.81620372178199,3.882,1.059,7,9
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 013,Bus,18.51073544106274,73.81331964210996,4.235,0.706,7,10
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 014,Metro,18.509086478180773,73.81050371065197,4.588,0.353,7,11
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 015,Bus,18.507404332478846,73.80765545081428,4.941,0.0,7,12
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 001,Bus,18.507410165683037,73.80765457043755,0.0,13.636,5,0
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 002,Bus,18.518530495257973,73.80688849464565,1.24,12.396,6,3
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 003,Bus,18.52964810505982,73.80621771399409,2.479,11.157,6,6
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 004,Bus,18.540807371442956,73.80547678032686,3.719,9.917,7,9
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 005,Bus,18.551902469093676,73.80472160365412,4.959,8.678,7,12
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 006,Bus,18.563029101611473,73.8040230386031,6.198,7.438,8,15
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 007,Bus,18.57418052421122,73.80331297790705,7.438,6.198,9,18
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 008,Bus,18.585326881293835,73.80259295053433,8.678,4.959,9,21
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 009,Bus,18.596378404001634,73.80183357967567,9.917,3.719,10,24
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 010,Bus,18.607540784518967,73.80116996335374,11.157,2.479,11,27
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 011,Bus,18.6186853842878,73.80045386142768,12.396,1.24,11,30
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 012,Bus,18.62984094635971,73.79970681929963,13.636,0.0,12,33
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 001,Bus,18.50104763301665,73.86269898727616,0.0,3.678,5,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 002,Bus,18.504363121331163,73.86099883415497,0.409,3.269,5,1
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 003,Bus,18.5076649183999,73.85929751530043,0.817,2.861,5,2
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 004,Metro,18.511007529541192,73.85761565893439,1.226,2.452,6,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 005,Bus,18.51428429063246,73.85596573276428,1.635,2.043,6,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 006,Bus,18.517579891140297,73.85423732983153,2.043,1.635,6,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 007,Bus,18.520885943508333,73.8525451788821,2.452,1.226,6,6
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 008,Bus,18.524194535483108,73.85083756233117,2.861,0.817,6,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 009,Bus,18.52752399686266,73.84916331447815,3.269,0.409,7,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 010,Bus,18.530843321489836,73.84745627042308,3.678,0.0,7,9
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 001,Bus,18.52879428519097,73.87451109509618,0.0,6.296,5,0
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 002,Bus,18.525585486963777,73.88011036799244,0.7,5.597,5,2
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 003,Bus,18.52226027182211,73.88582840968684,1.399,4.897,6,3
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 004,Bus,18.519065960774082,73.89149306455808,2.099,4.197,6,5
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 005,Bus,18.515804846991237,73.89719010493776,2.798,3.498,6,7
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 006,Bus,18.5125372544323,73.90286072802823,3.498,2.798,7,8
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 007,Bus,18.50927652999689,73.9085257773428,4.197,2.099,7,10
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 008,Bus,18.506036343705546,73.91422842112948,4.897,1.399,7,12
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 009,Bus,18.502774480170164,73.91992574082758,5.596,0.7,8,13
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 010,Bus,18.49950876894034,73.92559211459917,6.296,0.0,8,15
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 001,Metro,18.528828230638727,73.87445777313853,0.0,6.839,5,0
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 002,Bus,18.530688764688946,73.87950665179922,0.57,6.269,5,1
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 003,Bus,18.53254316297788,73.8845697120004,1.14,5.699,6,3
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 004,Bus,18.534336717047065,73.8896255902867,1.71,5.13,6,4
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 005,Bus,18.536215841892236,73.89461859618575,2.28,4.56,6,5
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 006,Bus,18.53807635616433,73.89964896617265,2.85,3.99,6,7
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 007,Bus,18.539875475251584,73.90475537794217,3.42,3.42,7,8
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 008,Metro,18.541750021809296,73.90976700190264,3.99,2.85,7,10
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 009,Metro,18.54359474571552,73.91481990032605,4.56,2.28,7,11
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 010,Bus,18.545474848805302,73.91983969401119,5.13,1.71,8,12
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 011,Bus,18.547288521650135,73.92491871780602,5.7,1.14,8,14
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 012,Bus,18.54916496768872,73.92994102602584,6.27,0.57,8,15
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 013,Metro,18.55097164667284,73.93501195243921,6.839,0.0,8,16
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 001,Bus,18.626054078061557,73.81218375465122,0.0,4.001,5,0
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 002,Metro,18.627222268247433,73.81538872537308,0.364,3.638,5,1
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 003,Bus,18.628333714569283,73.81864049865698,0.728,3.274,5,2
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 004,Bus,18.62947329747554,73.82188562924973,1.091,2.91,6,3
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 005,Bus,18.63061477914935,73.82511333394507,1.455,2.546,6,3
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 006,Bus,18.631720302116296,73.82833764852421,1.819,2.183,6,4
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 007,Bus,18.632876153931868,73.83159418770245,2.183,1.819,6,5
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 008,Bus,18.633991001107646,73.83483085354749,2.546,1.455,6,6
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 009,Bus,18.63514048697708,73.83804336730694,2.91,1.091,6,7
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 010,Bus,18.6362654967871,73.84128642609554,3.274,0.728,7,8
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 011,Metro,18.637388477980913,73.84456473175248,3.638,0.364,7,9
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 012,Bus,18.638513862213404,73.84778075790447,4.001,0.0,7,10
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 001,Bus,18.507396288977333,73.8075978226215,0.0,7.437,5,0
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 002,Bus,18.508689948526985,73.81155031785599,0.437,6.999,5,1
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 003,Bus,18.50990940783798,73.81551478300953,0.875,6.562,5,2
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 004,Metro,18.51114355756838,73.81946223111478,1.312,6.124,6,3
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 005,Bus,18.512463027963737,73.82337084387811,1.75,5.687,6,4
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 006,Bus,18.513692959268468,73.82730065504259,2.187,5.249,6,5
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 007,Bus,18.514961898075427,73.83123750119383,2.625,4.812,6,6
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 008,Bus,18.516210054491815,73.83518360638912,3.062,4.375,7,7
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 009,Metro,18.517485616153838,73.83906959545338,3.5,3.937,7,8
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 010,Bus,18.518719525902362,73.84301474547287,3.937,3.5,7,9
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 011,Bus,18.519982692825963,73.8469250066093,4.375,3.062,7,10
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 012,Bus,18.5212879547502,73.85089068308547,4.812,2.625,7,12
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 013,Metro,18.522545607923895,73.85479960419664,5.25,2.187,8,13
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 014,Metro,18.52376086094311,73.85873931289011,5.687,1.75,8,14
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 015,Bus,18.525040503486885,73.86268797921467,6.125,1.312,8,15
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 016,Bus,18.52627048601091,73.86660665551548,6.562,0.875,8,16
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 017,Bus,18.527554288811114,73.87054830641648,6.999,0.437,8,17
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 018,Bus,18.52880929352918,73.87447403030068,7.437,0.0,9,18
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 001,Bus,18.501058770597137,73.86268642501072,0.0,9.43,5,0
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 002,Bus,18.504379008481756,73.86750151616529,0.629,8.801,5,2
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 003,Bus,18.507709637639035,73.87231312727967,1.257,8.172,6,3
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 004,Bus,18.511045982115853,73.87711294910123,1.886,7.544,6,5
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 005,Metro,18.514377726125858,73.88197076508013,2.515,6.915,6,6
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 006,Bus,18.517701025766904,73.88677821894096,3.143,6.286,7,8
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 007,Bus,18.521042077412055,73.89161508340942,3.772,5.658,7,9
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 008,Metro,18.524352277271813,73.89646624187883,4.401,5.029,7,11
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 009,Bus,18.527678696912282,73.90121492156392,5.029,4.4,8,12
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 010,Bus,18.5310081088029,73.90606380269439,5.658,3.772,8,14
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 011,Metro,18.53434525087213,73.91087438477716,6.287,3.143,8,15
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 012,Metro,18.537674451069726,73.91567547886041,6.915,2.514,8,17
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 013,Bus,18.540971353668343,73.92053587000754,7.544,1.886,9,18
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 014,Bus,18.544332924631117,73.92529617033601,8.173,1.257,9,20
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 015,Bus,18.547637369323812,73.9301811572334,8.801,0.629,9,21
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 016,Bus,18.551000140595665,73.93496227752676,9.43,0.0,10,23
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 001,Bus,18.499525645287928,73.92561198027123,0.0,19.644,5,0
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 002,Bus,18.5095519079063,73.91592658291906,1.511,18.133,6,4
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 003,Bus,18.51954457119087,73.90621245618607,3.023,16.622,7,7
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 004,Bus,18.529599682603003,73.89656603573653,4.534,15.11,7,11
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 005,Bus,18.539583895835428,73.88683757689557,6.045,13.599,8,15
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 006,Bus,18.549629417882773,73.87719418839052,7.556,12.088,9,18
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 007,Bus,18.559624083833157,73.8674996976525,9.068,10.577,10,22
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 008,Bus,18.569669970570715,73.85782783938667,10.579,9.066,10,25
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 009,Bus,18.579719662842713,73.84813068462907,12.09,7.555,11,29
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 010,Bus,18.589720774831353,73.83843063516922,13.601,6.044,12,33
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 011,Metro,18.59974639459276,73.82875568807601,15.112,4.533,13,36
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 012,Bus,18.609761769353923,73.81907985646282,16.623,3.022,13,40
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 013,Bus,18.61976654844354,73.80942278087448,18.134,1.511,14,44
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 014,Bus,18.629827784062993,73.79972475308597,19.644,0.0,15,47
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 001,Bus,18.528765864861917,73.87447451334752,0.0,12.655,5,0
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 002,Bus,18.542716314128302,73.86551392976322,1.808,10.847,6,4
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 003,Bus,18.556591961113092,73.8566239563212,3.616,9.039,7,9
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 004,Bus,18.570472448225647,73.84775313492796,5.424,7.231,8,13
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 005,Bus,18.584417724840364,73.8388599704858,7.231,5.423,9,17
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 006,Bus,18.598306324962167,73.82991973087212,9.039,3.615,10,22
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 007,Bus,18.61216963245123,73.82108899675316,10.847,1.808,10,26
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 008,Bus,18.62606664780815,73.81215913420955,12.655,0.0,11,30
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 001,Metro,18.530768244134887,73.84743268631037,0.0,4.941,5,0
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 002,Bus,18.52936370307502,73.84496305697533,0.309,4.632,5,1
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 003,Bus,18.527914055145622,73.84246849875503,0.618,4.323,5,1
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 004,Bus,18.52641966795792,73.8400379372949,0.926,4.014,5,2
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 005,Bus,18.52494994339604,73.8375155306986,1.235,3.706,6,3
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 006,Bus,18.523510369147385,73.83503775658446,1.544,3.397,6,4
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 007,Bus,18.522044874727868,73.83253531928729,1.853,3.088,6,4
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 008,Metro,18.520568757649038,73.83003398974778,2.161,2.779,6,5
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 009,Bus,18.519126399997447,73.82758243371771,2.47,2.47,6,6
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 010,Bus,18.51763468336536,73.82509023650037,2.779,2.162,6,7
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 011,Bus,18.516163796620845,73.82256965125495,3.088,1.853,7,7
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 012,Metro,18.51473150696755,73.82007542252798,3.397,1.544,7,8
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 013,Bus,18.513261988075534,73.817597801824,3.705,1.235,7,9
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 014,Bus,18.511780394160777,73.81507107245395,4.014,0.926,7,10
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 015,Bus,18.510328942031137,73.8126407883139,4.323,0.618,7,10
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 016,Metro,18.508930013566577,73.81014619547555,4.632,0.309,7,11
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 017,Bus,18.507399620662635,73.80763510649999,4.941,0.0,7,12
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 001,Bus,18.50737019762583,73.80767629787674,0.0,13.636,5,0
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 002,Bus,18.521020203838123,73.80675822846466,1.515,12.121,6,4
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 003,Bus,18.534590859170393,73.80588823170349,3.03,10.606,7,7
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 004,Bus,18.54820009166993,73.80497013028378,4.545,9.091,7,11
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 005,Bus,18.561802139021104,73.80411018076067,6.061,7.576,8,15
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 006,Bus,18.57539386914706,73.80324385221593,7.576,6.06,9,18
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 007,Bus,18.589031357137305,73.80233852011499,9.091,4.545,10,22
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 008,Metro,18.602646256838675,73.80145941701471,10.606,3.03,10,25
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 009,Bus,18.61621974637872,73.80059815227565,12.121,1.515,11,29
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 010,Bus,18.62977311789779,73.79970964909762,13.636,0.0,12,33
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 001,Bus,18.501096169344592,73.86269779969042,0.0,3.678,5,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 002,Bus,18.503528868364313,73.8614429002165,0.307,3.372,5,1
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 003,Bus,18.50601785414674,73.860163840768,0.613,3.065,5,1
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 004,Bus,18.508480749425026,73.85887606574043,0.92,2.759,5,2
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 005,Metro,18.51099995238439,73.85764457450001,1.226,2.452,6,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 006,Bus,18.51343896023316,73.85635739076514,1.533,2.146,6,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 007,Bus,18.515926389513986,73.85508012710213,1.839,1.839,6,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 008,Bus,18.518387038856527,73.85381138234925,2.146,1.533,6,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 009,Bus,18.520879938359727,73.85249454102825,2.452,1.226,6,6
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 010,Bus,18.52337154077136,73.8512648249112,2.759,0.92,6,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 011,Metro,18.525862339293063,73.84999985198826,3.065,0.613,7,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 012,Bus,18.528358802198184,73.8487053442306,3.372,0.307,7,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 013,Bus,18.530826140246933,73.84746025361719,3.678,0.0,7,9
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 001,Bus,18.52879377484195,73.87448469708002,0.0,6.296,5,0
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 002,Bus,18.52655669878902,73.87839855519846,0.484,5.812,5,1
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 003,Bus,18.52432030499779,73.8823611939855,0.969,5.328,5,2
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 004,Bus,18.522033946365145,73.88627700573308,1.453,4.843,6,3
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 005,Bus,18.519807447255456,73.89017855031226,1.937,4.359,6,5
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 006,Bus,18.51754923538446,73.89412898486235,2.421,3.875,6,6
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 007,Bus,18.515291894230508,73.89803535098021,2.906,3.39,6,7
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 008,Bus,18.513043283223443,73.90202015937237,3.39,2.906,7,8
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 009,Bus,18.510758684753796,73.90593908816386,3.874,2.422,7,9
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 010,Bus,18.508545409071665,73.90989572464184,4.359,1.937,7,10
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 011,Bus,18.506279030940696,73.91382289051666,4.843,1.453,7,12
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 012,Metro,18.50404606714273,73.91771520490688,5.327,0.969,8,13
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 013,Metro,18.501796608772903,73.92167269431766,5.812,0.484,8,14
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 014,Bus,18.49950468741365,73.92561005927926,6.296,0.0,8,15
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 001,Bus,18.52881420330785,73.8744935594221,0.0,6.839,5,0
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 002,Bus,18.531571775674298,73.88201814232285,0.855,5.984,5,2
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 003,Bus,18.53433668024477,73.8896292441996,1.71,5.13,6,4
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 004,Metro,18.537125735542,73.89717684673724,2.565,4.275,6,6
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 005,Bus,18.53987059529203,73.90474056759287,3.42,3.42,7,8
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 006,Bus,18.54268353282154,73.91227333700428,4.275,2.565,7,10
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 007,Bus,18.54541481656399,73.91986687259826,5.13,1.71,8,12
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 008,Metro,18.54819192898948,73.92742631790823,5.985,0.855,8,14
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 009,Bus,18.55098533321185,73.9349856294265,6.839,0.0,8,16
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 001,Metro,18.62607139676487,73.81215420069951,0.0,4.001,5,0
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 002,Bus,18.626827620114803,73.81424948646074,0.235,3.766,5,1
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 003,Bus,18.627560986987316,73.81637184196731,0.471,3.531,5,1
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 004,Bus,18.628261605407655,73.81845642527506,0.706,3.295,5,2
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 005,Bus,18.62899835908666,73.82053847196248,0.942,3.06,5,2
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 006,Bus,18.629706210012532,73.82265968584885,1.177,2.825,6,3
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 007,Bus,18.630450699870483,73.82471790857379,1.412,2.589,6,3
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 008,Bus,18.63124443916645,73.82681812562485,1.648,2.354,6,4
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 009,Bus,18.631941279819614,73.82890322654549,1.883,2.118,6,5
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 010,Bus,18.632668278051128,73.83101848899528,2.118,1.883,6,5
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 011,Bus,18.633401601892558,73.83311153172473,2.354,1.648,6,6
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 012,Bus,18.634159028704687,73.83520750363523,2.589,1.412,6,6
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 013,Bus,18.63488577427042,73.83727870954662,2.825,1.177,6,7
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 014,Bus,18.635597477576844,73.83941628433661,3.06,0.941,7,7
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 015,Bus,18.636334663878696,73.84152347439178,3.295,0.706,7,8
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 016,Bus,18.637068605588656,73.84358216099983,3.531,0.471,7,8
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 017,Bus,18.637833270909596,73.84569599953342,3.766,0.235,7,9
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 018,Metro,18.638536519887506,73.84776556587042,4.001,0.0,7,10
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 001,Bus,18.507409808126102,73.8076505834255,0.0,7.437,5,0
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 002,Bus,18.508733110593294,73.81179627409155,0.465,6.972,5,1
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 003,Bus,18.510071998915144,73.81599304682501,0.93,6.507,5,2
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 004,Metro,18.511402993468376,73.82019384921615,1.394,6.042,6,3
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 005,Bus,18.512760004147054,73.82439311430404,1.859,5.578,6,4
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 006,Bus,18.514115436860735,73.8285055768779,2.324,5.113,6,6
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 007,Bus,18.51544412022624,73.83269617267008,2.789,4.648,6,7
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 008,Bus,18.516746786926944,73.83689875521777,3.254,4.183,7,8
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 009,Bus,18.518082231860895,73.84108260222494,3.719,3.718,7,9
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 010,Bus,18.51943517101448,73.8452386897919,4.183,3.254,7,10
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 011,Bus,18.520760745936347,73.84941108008722,4.648,2.789,7,11
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 012,Bus,18.522085428959343,73.85359286517493,5.113,2.324,8,12
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 013,Bus,18.523488927576622,73.85775095043284,5.578,1.859,8,13
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 014,Bus,18.524770774036917,73.86193971961241,6.043,1.394,8,15
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 015,Bus,18.526133101276663,73.86610129440638,6.507,0.93,8,16
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 016,Bus,18.527436245748795,73.87032350045132,6.972,0.465,8,17
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 017,Metro,18.52878462027821,73.87449238978283,7.437,0.0,9,18
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 001,Metro,18.501075676407666,73.86267091704097,0.0,9.43,5,0
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 002,Bus,18.50560134068877,73.86925978518276,0.857,8.572,5,2
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 003,Bus,18.510150234678942,73.87586082664936,1.715,7.715,6,4
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 004,Bus,18.51464931949267,73.88237115209856,2.572,6.858,6,6
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 005,Bus,18.519187896608567,73.88896809784603,3.429,6.001,7,8
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 006,Bus,18.523756095717815,73.8955322408144,4.286,5.143,7,10
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 007,Bus,18.528285007784906,73.90211595854684,5.144,4.286,8,12
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 008,Bus,18.532812990950735,73.90866134256699,6.001,3.429,8,14
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 009,Bus,18.537353160259364,73.9152588607443,6.858,2.572,8,16
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 010,Bus,18.541890817616355,73.92183842245542,7.715,1.714,9,19
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 011,Metro,18.546441801139885,73.92840153915901,8.573,0.857,9,21
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 012,Bus,18.55099011593422,73.93498930306986,9.43,0.0,10,23
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 001,Bus,18.49953888979652,73.92559805194732,0.0,19.644,5,0
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 002,Bus,18.512559810353864,73.91299442213722,1.965,17.68,6,5
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 003,Bus,18.52557541678749,73.90041193059952,3.929,15.715,7,9
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 004,Bus,18.538611064785933,73.88781190342652,5.894,13.75,8,14
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 005,Bus,18.551590762468557,73.87524733878165,7.859,11.786,9,19
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 006,Bus,18.564666148561127,73.8626557504325,9.823,9.821,10,24
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 007,Bus,18.57769442146345,73.85006289274699,11.787,7.857,11,28
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 008,Bus,18.590739187035922,73.83746217111961,13.752,5.893,12,33
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 009,Bus,18.603739205397595,73.82487762845848,15.716,3.928,13,38
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 010,Bus,18.616747981281982,73.81228683617672,17.68,1.964,14,42
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 011,Bus,18.629804695424795,73.79970041219504,19.644,0.0,15,47
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 001,Bus,18.528749243061718,73.87447450784491,0.0,12.655,5,0
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 002,Bus,18.536314004042513,73.86968829178622,0.973,11.681,5,2
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 003,Bus,18.543774112877518,73.86490386677025,1.947,10.708,6,5
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 004,Bus,18.551252647373797,73.8600788308063,2.92,9.734,6,7
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 005,Bus,18.558741121737537,73.85530526120704,3.894,8.761,7,9
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 006,Bus,18.566214897451466,73.85050601746363,4.867,7.787,7,12
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 007,Bus,18.573701481602892,73.84572252249797,5.841,6.814,8,14
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 008,Metro,18.5811939536512,73.84093260094109,6.814,5.84,8,16
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 009,Bus,18.58864214663971,73.83611521292788,7.788,4.867,9,19
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 010,Bus,18.596150630924267,73.83132758819251,8.761,3.893,9,21
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 011,Bus,18.603641698761443,73.82653983764826,9.734,2.92,10,23
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 012,Bus,18.611116804114022,73.82173548109394,10.708,1.947,10,26
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 013,Bus,18.61859707782568,73.81692483109578,11.681,0.973,11,28
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 014,Bus,18.62607941370993,73.81215954786603,12.655,0.0,11,30
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 001,Bus,18.530804829674796,73.84746049456429,0.0,4.941,5,0
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 002,Bus,18.5294211211568,73.84512782268868,0.291,4.65,5,1
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 003,Bus,18.528031420763092,73.84276836955634,0.581,4.359,5,1
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 004,Bus,18.52671018672478,73.84042792764002,0.872,4.069,5,2
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 005,Bus,18.52528606900931,73.83810617086777,1.162,3.778,6,3
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 006,Bus,18.523904387413744,73.83575810976562,1.453,3.488,6,3
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 007,Bus,18.522539103638824,73.83342486969627,1.744,3.197,6,4
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 008,Bus,18.52116942797601,73.83108415748262,2.034,2.906,6,5
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 009,Metro,18.519815558356,73.82873490505528,2.325,2.616,6,6
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 010,Bus,18.518401759046622,73.82638687435151,2.616,2.325,6,6
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 011,Bus,18.51705843532561,73.8240320118774,2.906,2.034,6,7
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 012,Bus,18.51570993048163,73.82168327320815,3.197,1.744,7,8
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 013,Metro,18.514326316372426,73.81935252430056,3.487,1.453,7,8
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 014,Bus,18.512918827428088,73.81699729641804,3.778,1.163,7,9
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 015,Metro,18.511544079428045,73.81468031084177,4.069,0.872,7,10
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 016,Bus,18.510142136740406,73.81233058692935,4.359,0.581,7,10
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 017,Bus,18.508765394477262,73.81000564788026,4.65,0.291,7,11
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 018,Bus,18.507392810112865,73.80765594934061,4.941,0.0,7,12
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 001,Bus,18.507363380417086,73.80764727669496,0.0,13.636,5,0
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 002,Bus,18.515560049261445,73.80711648299595,0.909,12.727,5,2
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 003,Metro,18.523727047508654,73.80659985596854,1.818,11.818,6,4
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 004,Bus,18.531906691033182,73.80607165910355,2.727,10.909,6,7
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 005,Bus,18.5400361428439,73.80554909969086,3.636,10.0,7,9
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 006,Bus,18.54818358480831,73.80499853494105,4.545,9.091,7,11
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 007,Metro,18.556341044376282,73.80445212618835,5.454,8.182,8,13
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 008,Metro,18.564518207919185,73.80394410156299,6.364,7.273,8,15
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 009,Bus,18.572692786905314,73.80342499491138,7.273,6.364,9,17
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 010,Metro,18.580840979030206,73.80290279248803,8.182,5.454,9,20
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 011,Bus,18.588996368713804,73.80235490702167,9.091,4.545,10,22
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 012,Metro,18.59715540010603,73.80182983876723,10.0,3.636,10,24
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 013,Bus,18.605331480827935,73.80126448643243,10.909,2.727,10,26
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 014,Bus,18.613474001033758,73.8007662322479,11.818,1.818,11,28
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 015,Bus,18.62162908941011,73.8001975005771,12.727,0.909,11,31
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 016,Bus,18.629813980333505,73.79972409995057,13.636,0.0,12,33
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 001,Bus,18.501047379260434,73.86264386924476,0.0,3.678,5,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 002,Bus,18.50438910143388,73.86100597561702,0.409,3.269,5,1
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 003,Bus,18.507687830447228,73.85932486249523,0.817,2.861,5,2
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 004,Bus,18.511008510267438,73.85760437212451,1.226,2.452,6,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 005,Bus,18.51427125690232,73.85593009063183,1.635,2.043,6,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 006,Metro,18.51758998970117,73.85421563124285,2.043,1.635,6,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 007,Bus,18.520890685702145,73.8525267570212,2.452,1.226,6,6
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 008,Metro,18.52418950679771,73.8508129913043,2.861,0.817,6,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 009,Bus,18.527533233417692,73.84916920932386,3.269,0.409,7,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 010,Bus,18.530810157351624,73.84747549612095,3.678,0.0,7,9
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 001,Bus,18.52878763124819,73.87447555035178,0.0,6.296,5,0
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 002,Bus,18.52461459398551,73.88175788086853,0.899,5.397,5,2
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 003,Bus,18.52043046321031,73.88911474988012,1.799,4.497,6,4
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 004,Metro,18.516289979346364,73.89634768183787,2.698,3.598,6,6
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 005,Bus,18.512107286655034,73.9036716467136,3.598,2.698,7,9
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 006,Bus,18.50789458756571,73.91095334571429,4.497,1.799,7,11
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 007,Bus,18.50372127736538,73.9183038195842,5.397,0.899,8,13
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 008,Bus,18.499521297425556,73.92558823169978,6.296,0.0,8,15
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 001,Bus,18.528823049793136,73.8744619068409,0.0,6.839,5,0
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 002,Bus,18.5305162448209,73.87908664290559,0.526,6.313,5,1
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 003,Bus,18.532210583465233,73.8838069180504,1.052,5.787,6,3
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 004,Bus,18.533949833065595,73.88846167766047,1.578,5.261,6,4
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 005,Bus,18.53560698771076,73.89307371590333,2.105,4.735,6,5
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 006,Bus,18.537327670345128,73.89777125386424,2.631,4.209,6,6
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 007,Bus,18.539039885400342,73.90237400761974,3.157,3.683,7,8
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 008,Metro,18.540788153378365,73.90704590594227,3.683,3.157,7,9
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 009,Bus,18.54243939452866,73.91173834502351,4.209,2.63,7,10
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 010,Bus,18.54414324299508,73.91634984816193,4.735,2.104,7,11
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 011,Bus,18.545871026388163,73.92100572506818,5.261,1.578,8,13
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 012,Bus,18.547586009210054,73.9257124707194,5.787,1.052,8,14
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 013,Bus,18.549287272182493,73.9303182839374,6.313,0.526,8,15
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 014,Bus,18.550977109297968,73.9349394513501,6.839,0.0,8,16
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 001,Bus,18.626057912498613,73.81215457510542,0.0,4.001,5,0
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 002,Bus,18.62684769183601,73.81438527632892,0.25,3.751,5,1
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 003,Bus,18.62764513435703,73.81662927352879,0.5,3.501,5,1
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 004,Bus,18.62841345271906,73.81884963900441,0.75,3.251,5,2
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 005,Bus,18.629171482731092,73.8210393097511,1.0,3.001,6,2
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 006,Bus,18.630001667406002,73.82330316137228,1.25,2.751,6,3
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 007,Bus,18.630768962313216,73.82549635623594,1.501,2.501,6,4
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 008,Bus,18.631486262641886,73.82774396735962,1.751,2.251,6,4
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 009,Bus,18.632307524070683,73.8299438100679,2.001,2.001,6,5
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 010,Bus,18.633067626337535,73.8321873737802,2.251,1.751,6,5
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 011,Bus,18.633835765360637,73.83440535101862,2.501,1.501,6,6
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 012,Bus,18.63461878192438,73.83663249734455,2.751,1.25,6,7
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 013,Bus,18.63542342838756,73.83888909714948,3.001,1.0,7,7
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 014,Metro,18.636205004205237,73.84112807431151,3.251,0.75,7,8
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 015,Bus,18.63698636449589,73.8432529093939,3.501,0.5,7,8
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 016,Bus,18.63774062803085,73.84556771780414,3.751,0.25,7,9
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 017,Bus,18.63853966082048,73.84777874430479,4.001,0.0,7,10
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 001,Bus,18.50739218655183,73.80764503619591,0.0,7.437,5,0
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 002,Bus,18.510462144714875,73.81719506533217,1.062,6.374,6,3
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 003,Bus,18.5135239447313,73.82676525576079,2.125,5.312,6,5
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 004,Metro,18.516573401971147,73.83629104626961,3.187,4.25,7,8
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 005,Metro,18.519669821119585,73.84582651086028,4.25,3.187,7,10
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 006,Bus,18.522655180561486,73.85538597720038,5.312,2.125,8,13
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 007,Metro,18.52573747049558,73.86495140309025,6.375,1.062,8,15
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 008,Bus,18.528811519780312,73.87446671547976,7.437,0.0,9,18
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 001,Bus,18.501072372578403,73.86273076393447,0.0,9.43,5,0
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 002,Bus,18.505224339344405,73.868695308958,0.786,8.644,5,2
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 003,Bus,18.509361580685415,73.87474572275214,1.572,7.858,6,4
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 004,Metro,18.513529384248802,73.88075736401322,2.358,7.072,6,6
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 005,Bus,18.517701975230082,73.88681224046155,3.143,6.286,7,8
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 006,Metro,18.52187089085517,73.89283869218119,3.929,5.5,7,9
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 007,Metro,18.526013479212867,73.89884771772937,4.715,4.715,7,11
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 008,Bus,18.5301696646728,73.90484775968883,5.501,3.929,8,13
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 009,Metro,18.534365746494057,73.91088080059511,6.287,3.143,8,15
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 010,Metro,18.53851712783481,73.9169165703913,7.072,2.357,9,17
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 011,Bus,18.54266935294552,73.92290541869237,7.858,1.571,9,19
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 012,Bus,18.54687100976759,73.92893158213016,8.644,0.786,9,21
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 013,Metro,18.551004891224956,73.93496355913724,9.43,0.0,10,23
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 001,Bus,18.499525083862533,73.9255937905034,0.0,19.644,5,0
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 002,Bus,18.518154090950013,73.90758241040781,2.807,16.838,6,7
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 003,Bus,18.536763498086803,73.88962382209067,5.613,14.031,8,13
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 004,Bus,18.555352229934137,73.87164927082999,8.42,11.225,9,20
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 005,Metro,18.573952861486816,73.85365705471204,11.226,8.418,11,27
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 006,Metro,18.592559655695226,73.83567208464672,14.032,5.612,12,34
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 007,Bus,18.611162797657723,73.81768693557308,16.838,2.806,13,40
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 008,Bus,18.62980047325404,73.79970734766034,19.644,0.0,15,47
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 001,Bus,18.528817982389604,73.87448996931647,0.0,12.655,5,0
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 002,Bus,18.53963119190484,73.86755444993292,1.406,11.248,6,3
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 003,Bus,18.55041149042471,73.86059609027602,2.812,9.842,6,7
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 004,Bus,18.561200730695777,73.85366841298027,4.218,8.436,7,10
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 005,Bus,18.572036242930793,73.84681776246694,5.624,7.03,8,13
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 006,Metro,18.582856640233754,73.83984728190723,7.031,5.624,9,17
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 007,Bus,18.593640262169842,73.83292556807623,8.437,4.218,9,20
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 008,Bus,18.60443435674264,73.82600417421561,9.843,2.812,10,24
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 009,Metro,18.61525949678334,73.81906070253713,11.249,1.406,11,27
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 010,Bus,18.626089591416097,73.8121719093671,12.655,0.0,11,30
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 001,Bus,18.530846806242053,73.84747465846235,0.0,4.941,5,0
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 002,Bus,18.529282725968912,73.8448176645891,0.329,4.611,5,1
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 003,Bus,18.527732776014158,73.84213291599164,0.659,4.282,5,2
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 004,Bus,18.52612836907194,73.83951835253674,0.988,3.953,5,2
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 005,Bus,18.524619096213165,73.83685497652031,1.317,3.623,6,3
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 006,Bus,18.52300077610018,73.8342039824795,1.647,3.294,6,4
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 007,Bus,18.52145528348305,73.83153959661166,1.976,2.964,6,5
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 008,Bus,18.519901636131845,73.82890567803572,2.306,2.635,6,6
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 009,Bus,18.518357132206127,73.82620573642087,2.635,2.306,6,6
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 010,Bus,18.5167488773487,73.8235916019827,2.964,1.976,6,7
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 011,Bus,18.515204056062018,73.82093772670717,3.294,1.647,7,8
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 012,Bus,18.513654302004657,73.81825857355541,3.623,1.318,7,9
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 013,Metro,18.512090337388333,73.81560173976263,3.952,0.988,7,9
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 014,Bus,18.510540704299167,73.81298059420384,4.282,0.659,7,10
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 015,Bus,18.508937348209187,73.81026960574525,4.611,0.329,7,11
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 016,Metro,18.507398201810883,73.80764686894565,4.941,0.0,7,12
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 001,Bus,18.507411385162197,73.80765182735075,0.0,13.636,5,0
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 002,Bus,18.518498527472396,73.80692252601398,1.24,12.396,6,3
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 003,Bus,18.529668818413825,73.80620261727229,2.479,11.157,6,6
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 004,Bus,18.54082115991417,73.8055080694988,3.719,9.917,7,9
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 005,Bus,18.55189262057226,73.80476362615066,4.959,8.678,7,12
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 006,Metro,18.56301868324603,73.80402844382546,6.198,7.438,8,15
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 007,Bus,18.574163704120156,73.80332180435137,7.438,6.198,9,18
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 008,Bus,18.585276375312873,73.80259446630805,8.678,4.959,9,21
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 009,Bus,18.596383996345903,73.80189023521613,9.917,3.719,10,24
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 010,Metro,18.60754237479453,73.80113516610086,11.157,2.479,11,27
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 011,Bus,18.618637973221375,73.80044714459238,12.396,1.24,11,30
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 012,Bus,18.629776672472072,73.7996812631846,13.636,0.0,12,33
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 001,Bus,18.50106054949023,73.86269057856776,0.0,3.678,5,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 002,Bus,18.504006755697446,73.86113437653194,0.368,3.31,5,1
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 003,Metro,18.50700335551171,73.85964593137805,0.736,2.943,5,2
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 004,Bus,18.509995578940384,73.85811197862913,1.103,2.575,6,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 005,Bus,18.512928297453442,73.85660816372925,1.471,2.207,6,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 006,Metro,18.51595519585991,73.85507417985443,1.839,1.839,6,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 007,Bus,18.518925626260224,73.85355216674746,2.207,1.471,6,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 008,Metro,18.521880690511605,73.85205008103732,2.575,1.103,6,6
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 009,Bus,18.524871551753844,73.8505326108731,2.943,0.736,6,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 010,Bus,18.527831538832636,73.8489948044472,3.31,0.368,7,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 011,Bus,18.530830278524924,73.84747085418908,3.678,0.0,7,9
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 001,Bus,18.52884704944224,73.87449433350058,0.0,6.296,5,0
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 002,Bus,18.52636202544891,73.8787278404545,0.525,5.771,5,1
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 003,Bus,18.523914377919844,73.88298525221182,1.049,5.247,6,3
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 004,Bus,18.521469428045577,73.88727476198407,1.574,4.722,6,4
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 005,Bus,18.51905529690487,73.89150613686192,2.099,4.197,6,5
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 006,Bus,18.516591803493803,73.89576287582138,2.623,3.673,6,6
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 007,Bus,18.514185202938517,73.9000446520403,3.148,3.148,7,8
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 008,Bus,18.51171771824913,73.90426867487733,3.673,2.623,7,9
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 009,Bus,18.50927480918864,73.90852282118084,4.197,2.099,7,10
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 010,Bus,18.506862572792006,73.91280085532925,4.722,1.574,7,11
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 011,Bus,18.504389744822074,73.91709038064627,5.247,1.049,8,13
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 012,Bus,18.50197656052721,73.92134350355292,5.771,0.525,8,14
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 013,Bus,18.49952281589056,73.92562726430789,6.296,0.0,8,15
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 001,Bus,18.528796212467192,73.87446755172667,0.0,6.839,5,0
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 002,Bus,18.5303756194566,73.87880209436788,0.489,6.351,5,1
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 003,Metro,18.531945554173245,73.88312270041257,0.977,5.862,5,2
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 004,Bus,18.533531627474343,73.88744601330787,1.466,5.374,6,4
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 005,Bus,18.535139763568722,73.89174578374461,1.954,4.885,6,5
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 006,Bus,18.536698297949446,73.89611001845148,2.443,4.397,6,6
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 007,Bus,18.5383309713843,73.90037793891757,2.931,3.908,6,7
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 008,Metro,18.53987133968125,73.90474630667059,3.42,3.42,7,8
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 009,Bus,18.541461203808243,73.90902643572637,3.908,2.931,7,9
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 010,Bus,18.543076260209673,73.91339234051696,4.397,2.443,7,11
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 011,Bus,18.54465275661957,73.91766308542644,4.885,1.954,7,12
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 012,Metro,18.546240298914174,73.92201363553964,5.374,1.466,8,13
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 013,Bus,18.547806250543864,73.92637045233599,5.862,0.977,8,14
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 014,Metro,18.54941296036637,73.93067563924754,6.351,0.489,8,15
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 015,Metro,18.550974697055675,73.93499422790327,6.839,0.0,8,16
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 001,Bus,18.62609246396642,73.8121761612606,0.0,4.001,5,0
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 002,Metro,18.62784735396321,73.81724536297476,0.572,3.43,5,1
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 003,Bus,18.629616424608567,73.82235310534223,1.143,2.858,6,3
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 004,Bus,18.631400911560597,73.82740296289055,1.715,2.287,6,4
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 005,Bus,18.633174876998826,73.83252966347,2.287,1.715,6,5
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 006,Bus,18.634955926945306,73.83760185863719,2.858,1.143,6,7
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 007,Bus,18.636742046415392,73.84272188562726,3.43,0.572,7,8
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 008,Metro,18.63850557862182,73.84776788194156,4.001,0.0,7,10
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 001,Bus,18.50743491072258,73.80764380322353,0.0,7.437,5,0
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 002,Bus,18.509544961948205,73.8143461013924,0.744,6.693,5,2
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 003,Bus,18.511704132335993,73.82098198214118,1.487,5.949,6,4
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 004,Bus,18.513817115252973,73.8276894299708,2.231,5.206,6,5
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 005,Bus,18.515942352029093,73.83437810741422,2.975,4.462,6,7
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 006,Bus,18.518107757242888,73.84107256589164,3.719,3.718,7,9
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 007,Bus,18.520256206429345,73.84774016029107,4.462,2.975,7,11
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 008,Bus,18.522368570040083,73.85448139082386,5.206,2.231,8,12
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 009,Bus,18.524512400431806,73.86111470979979,5.95,1.487,8,14
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 010,Bus,18.52667178931952,73.86777186162631,6.693,0.744,8,16
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 011,Bus,18.528779629163424,73.874452795578,7.437,0.0,9,18
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 001,Metro,18.501065305921305,73.86270211309065,0.0,9.43,5,0
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 002,Bus,18.50491800627846,73.86826326666134,0.725,8.704,5,2
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 003,Bus,18.508738860396456,73.87385693495584,1.451,7.979,6,3
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 004,Bus,18.51256942376061,73.87935362983603,2.176,7.253,6,5
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 005,Bus,18.51641757533832,73.88491956169173,2.902,6.528,6,7
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 006,Bus,18.52024313589736,73.89046555764197,3.627,5.803,7,9
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 007,Bus,18.524087716131987,73.89604724407694,4.352,5.077,7,10
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 008,Bus,18.52795511586998,73.90162349346032,5.078,4.352,8,12
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 009,Bus,18.531774008506847,73.90717851354837,5.803,3.627,8,14
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 010,Bus,18.535593954849624,73.91274099081956,6.528,2.901,8,16
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 011,Bus,18.539422589829595,73.91829960019037,7.254,2.176,9,17
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 012,Bus,18.543281142401113,73.92385667824253,7.979,1.451,9,19
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 013,Bus,18.547125600824074,73.92938691362274,8.704,0.725,9,21
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 014,Bus,18.550995937932615,73.93495095420695,9.43,0.0,10,23
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 001,Bus,18.499562655905127,73.92561416898218,0.0,19.644,5,0
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 002,Bus,18.510366837984666,73.91510152023834,1.637,18.007,6,4
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 003,Bus,18.52123851787382,73.90458793437391,3.275,16.37,7,8
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 004,Metro,18.532123521151988,73.8941064861962,4.912,14.733,7,12
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 005,Bus,18.542964589120587,73.88362428801904,6.549,13.096,8,16
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 006,Bus,18.553796824675654,73.8731697947769,8.186,11.458,9,20
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 007,Bus,18.564654067234727,73.86266390640681,9.823,9.821,10,24
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 008,Bus,18.57551012537324,73.85213215815175,11.46,8.184,11,28
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 009,Bus,18.586361482729977,73.84166322616561,13.097,6.547,12,31
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 010,Bus,18.597259785207505,73.83117420320478,14.734,4.91,12,35
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 011,Metro,18.60811992256555,73.82067418606587,16.371,3.274,13,39
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 012,Metro,18.618941120816284,73.81017873618102,18.008,1.637,14,43
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 013,Bus,18.62976990015181,73.79969538716732,19.644,0.0,15,47
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 001,Bus,18.528793828647718,73.8744892306599,0.0,12.655,5,0
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 002,Bus,18.53628994484217,73.86965704142415,0.973,11.681,5,2
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 003,Bus,18.5437504100266,73.86489326039325,1.947,10.708,6,5
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 004,Bus,18.55124474466071,73.86009577245528,2.92,9.734,6,7
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 005,Bus,18.558740414609435,73.85530747518462,3.894,8.761,7,9
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 006,Bus,18.566251719568537,73.85051375601765,4.867,7.787,7,12
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 007,Bus,18.573659425567797,73.845720837451,5.841,6.814,8,14
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 008,Bus,18.581187598126412,73.84093949849398,6.814,5.84,8,16
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 009,Bus,18.588677398271965,73.83615355548967,7.788,4.867,9,19
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 010,Bus,18.596174977329284,73.83133074326253,8.761,3.893,9,21
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 011,Bus,18.603623155105364,73.82652926722481,9.734,2.92,10,23
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 012,Bus,18.611130376798595,73.82171944128919,10.708,1.947,10,26
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 013,Bus,18.61860078974915,73.81695359917758,11.681,0.973,11,28
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 014,Bus,18.626115399354077,73.81211845619393,12.655,0.0,11,30
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 001,Bus,18.530837241263193,73.8474843481126,0.0,4.941,5,0
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 002,Bus,18.52751950714413,73.84177770544485,0.706,4.235,5,2
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 003,Bus,18.524086860636892,73.83610307164611,1.412,3.529,6,3
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 004,Bus,18.520789809663466,73.83042056091156,2.117,2.823,6,5
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 005,Bus,18.517420929684718,73.82473032516532,2.823,2.117,6,7
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 006,Bus,18.514056352624245,73.81902331434662,3.529,1.412,7,8
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 007,Bus,18.51075151472215,73.81333371088402,4.235,0.706,7,10
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 008,Bus,18.507387297164467,73.80764158354089,4.941,0.0,7,12
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 001,Bus,18.50740490085893,73.80766036447592,0.0,13.636,5,0
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 002,Bus,18.517623333611144,73.80696111246293,1.136,12.5,6,3
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 003,Bus,18.527788264998136,73.80634222939324,2.273,11.363,6,5
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 004,Bus,18.537965958266227,73.80565771991564,3.409,10.227,7,8
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 005,Bus,18.548243078283953,73.805001395934,4.545,9.091,7,11
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 006,Bus,18.55838566681885,73.80434029836844,5.682,7.954,8,14
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 007,Bus,18.568613090749828,73.8036999909893,6.818,6.818,8,16
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 008,Bus,18.578777048701884,73.80301520270324,7.954,5.682,9,19
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 009,Bus,18.58901654409538,73.80238071490452,9.091,4.545,10,22
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 010,Bus,18.59920919855763,73.80168808214466,10.227,3.409,10,25
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 011,Bus,18.609409462842127,73.8010408721124,11.363,2.273,11,27
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 012,Bus,18.61957763925532,73.80037893001965,12.5,1.136,11,30
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 013,Metro,18.629801491633902,73.79976568760684,13.636,0.0,12,33
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 001,Bus,18.501078941077896,73.86269652308387,0.0,3.678,5,0
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 002,Bus,18.503768345069513,73.86130069647494,0.334,3.344,5,1
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 003,Bus,18.50645701395447,73.8598890908909,0.669,3.009,5,2
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 004,Bus,18.509163294260627,73.85852113944935,1.003,2.675,6,2
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 005,Bus,18.511852841571905,73.8571432399943,1.338,2.341,6,3
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 006,Bus,18.514592364834154,73.85575713457163,1.672,2.006,6,4
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 007,Bus,18.517295717604796,73.85438883415725,2.006,1.672,6,5
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 008,Bus,18.520001669891155,73.85300516035387,2.341,1.337,6,6
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 009,Bus,18.5227428069363,73.85160819567716,2.675,1.003,6,6
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 010,Metro,18.525394358285638,73.85025931469205,3.009,0.669,7,7
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 011,Bus,18.528084849838404,73.84884176479505,3.344,0.334,7,8
+Swargate–Shivaji Nagar,Swargate,Shivaji Nagar,Swargate Stop 012,Bus,18.53082305699815,73.84743342942208,3.678,0.0,7,9
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 001,Bus,18.528826758900912,73.87447182954125,0.0,6.296,5,0
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 002,Bus,18.526358046009832,73.87878647442466,0.525,5.771,5,1
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 003,Bus,18.52387500438057,73.88297046580483,1.049,5.247,6,3
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 004,Bus,18.521488198777334,73.88725381025657,1.574,4.722,6,4
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 005,Bus,18.519075133047746,73.89152001494158,2.099,4.197,6,5
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 006,Bus,18.516638583129204,73.89575050768292,2.623,3.673,6,6
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 007,Bus,18.51412782762495,73.90003728002412,3.148,3.148,7,8
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 008,Bus,18.511730308380173,73.90427019109727,3.673,2.623,7,9
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 009,Bus,18.509269063849484,73.90856627149773,4.197,2.099,7,10
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 010,Bus,18.506883794012378,73.91281584727192,4.722,1.574,7,11
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 011,Bus,18.504438691032025,73.91706268935862,5.247,1.049,8,13
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 012,Metro,18.501956874161014,73.92132702414455,5.771,0.525,8,14
+Pune Station–Hadapsar,Pune Station,Hadapsar,Pune Station Stop 013,Bus,18.499497004097684,73.92558418142767,6.296,0.0,8,15
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 001,Bus,18.528792640709636,73.8744774639897,0.0,6.839,5,0
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 002,Bus,18.53077981057569,73.8799778238214,0.622,6.218,5,1
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 003,Bus,18.53284097936413,73.88545335696729,1.244,5.596,6,3
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 004,Bus,18.53483499016706,73.89095502071989,1.865,4.974,6,4
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 005,Bus,18.536855890188384,73.89649514482734,2.487,4.352,6,6
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 006,Bus,18.53888187824974,73.90199424860835,3.109,3.731,7,7
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 007,Bus,18.540915424166318,73.90746970120868,3.731,3.109,7,9
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 008,Bus,18.542912930767358,73.91299184320127,4.352,2.487,7,10
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 009,Bus,18.544947187884905,73.91848510595753,4.974,1.865,7,12
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 010,Metro,18.546968713901,73.92397375924618,5.596,1.243,8,13
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 011,Bus,18.54896843227389,73.92949713631637,6.218,0.622,8,15
+Pune Station–Kharadi,Pune Station,Kharadi,Pune Station Stop 012,Bus,18.551004338636336,73.93499434579387,6.839,0.0,8,16
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 001,Bus,18.626073959762575,73.81215817982105,0.0,4.001,5,0
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 002,Bus,18.627103237740485,73.81513162566004,0.333,3.668,5,1
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 003,Bus,18.628130885888165,73.818093119348,0.667,3.335,5,2
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 004,Bus,18.629142720683735,73.82107029244374,1.0,3.001,6,2
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 005,Bus,18.6302071209276,73.82404224780532,1.334,2.668,6,3
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 006,Bus,18.63124307959623,73.82698976736064,1.667,2.334,6,4
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 007,Bus,18.632327602049997,73.8299900897247,2.001,2.001,6,5
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 008,Bus,18.63337091866598,73.83295904037433,2.334,1.667,6,6
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 009,Bus,18.63435998969167,73.83586484273258,2.668,1.334,6,6
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 010,Bus,18.635421225030427,73.83884865695147,3.001,1.0,7,7
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 011,Bus,18.63642469604027,73.84186750536533,3.335,0.667,7,8
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 012,Metro,18.637490840780888,73.84482003860245,3.668,0.333,7,9
+Pimpri–Bhosari,Pimpri,Bhosari,Pimpri Stop 013,Bus,18.63851172108463,73.84777768469871,4.001,0.0,7,10
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 001,Bus,18.507405421660803,73.80766400954191,0.0,7.437,5,0
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 002,Bus,18.509033117739854,73.81278736396243,0.572,6.865,5,1
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 003,Bus,18.51070245742063,73.817914492621,1.144,6.293,6,3
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 004,Metro,18.51233880132308,73.82304492936255,1.716,5.721,6,4
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 005,Bus,18.51397098639088,73.82825698575897,2.288,5.149,6,5
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 006,Bus,18.515625992303875,73.83333948522596,2.86,4.576,6,7
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 007,Bus,18.51724722554913,73.83849546085018,3.433,4.004,7,8
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 008,Metro,18.51891687296033,73.84367409759878,4.005,3.432,7,10
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 009,Bus,18.520571488181723,73.8487580734995,4.577,2.86,7,11
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 010,Bus,18.522210781998552,73.85393332802172,5.149,2.288,8,12
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 011,Bus,18.52387000172452,73.85904415997135,5.721,1.716,8,14
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 012,Bus,18.52547947466615,73.8642217618716,6.293,1.144,8,15
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 013,Bus,18.52719529915702,73.86930099701024,6.865,0.572,8,16
+Kothrud Depot–Pune Station,Kothrud Depot,Pune Station,Kothrud Depot Stop 014,Bus,18.528792816775518,73.87450096726825,7.437,0.0,9,18
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 001,Bus,18.501104241152316,73.86271298054048,0.0,9.43,5,0
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 002,Bus,18.505538639589176,73.8692484484019,0.857,8.572,5,2
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 003,Bus,18.510125233904038,73.87582061366908,1.715,7.715,6,4
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 004,Bus,18.51469933326988,73.8824085983944,2.572,6.858,6,6
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 005,Bus,18.519209012992498,73.88897165748509,3.429,6.001,7,8
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 006,Bus,18.523780550138056,73.8955038545695,4.286,5.143,7,10
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 007,Bus,18.528276753746812,73.90211453671765,5.144,4.286,8,12
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 008,Bus,18.532841526896103,73.90870086451034,6.001,3.429,8,14
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 009,Bus,18.537403352551973,73.9152535760919,6.858,2.572,8,16
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 010,Bus,18.541943208929318,73.92180476266219,7.715,1.714,9,19
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 011,Bus,18.546429598191793,73.92842814222472,8.573,0.857,9,21
+Swargate–Kharadi,Swargate,Kharadi,Swargate Stop 012,Bus,18.550982730968393,73.9350108638846,9.43,0.0,10,23
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 001,Metro,18.499511894348025,73.92557571651173,0.0,19.644,5,0
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 002,Bus,18.50766727206379,73.91772378912046,1.228,18.416,6,3
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 003,Bus,18.515857822009007,73.90983680524096,2.456,17.188,6,6
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 004,Bus,18.523954151950875,73.90197319849342,3.684,15.961,7,9
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 005,Bus,18.53210933500636,73.8941220393301,4.912,14.733,7,12
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 006,Bus,18.540243772947015,73.88622241925292,6.14,13.505,8,15
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 007,Bus,18.548350063296706,73.878396728593,7.367,12.277,9,18
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 008,Bus,18.556491159174577,73.8705110389403,8.595,11.049,9,21
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 009,Bus,18.564704568015646,73.8626763581655,9.823,9.821,10,24
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 010,Metro,18.572786613647235,73.85475194648795,11.051,8.594,11,27
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 011,Bus,18.580972137398355,73.8469347353569,12.279,7.366,11,29
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 012,Bus,18.58911284689533,73.83905783764828,13.506,6.138,12,32
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 013,Bus,18.597236426259148,73.83118212855895,14.734,4.91,12,35
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 014,Bus,18.60540371462879,73.82331628660776,15.962,3.683,13,38
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 015,Bus,18.613492319037267,73.81537934445095,17.189,2.455,14,41
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 016,Bus,18.62166637733,73.80758502915349,18.417,1.228,14,44
+Hadapsar–PCMC,Hadapsar,PCMC,Hadapsar Stop 017,Bus,18.62981637155801,73.79973802098856,19.644,0.0,15,47
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 001,Bus,18.528809293161476,73.87448093289471,0.0,12.655,5,0
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 002,Bus,18.542680991940426,73.86560135845343,1.808,10.847,6,4
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 003,Bus,18.556577390332695,73.85665542768427,3.616,9.039,7,9
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 004,Bus,18.57051042348841,73.8477499448413,5.424,7.231,8,13
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 005,Bus,18.584400370289003,73.83888601082401,7.231,5.423,9,17
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 006,Bus,18.59827795274199,73.82997074590884,9.039,3.615,10,22
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 007,Bus,18.612173441121985,73.82105760349349,10.847,1.808,10,26
+Pune Station–Pimpri,Pune Station,Pimpri,Pune Station Stop 008,Bus,18.626058495327726,73.81215125222772,12.655,0.0,11,30
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 001,Bus,18.53079784020715,73.84745461971319,0.0,4.941,5,0
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 002,Bus,18.528861028509645,73.8441401659165,0.412,4.529,5,1
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 003,Bus,18.52692502027411,73.84080556849241,0.823,4.117,5,2
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 004,Bus,18.52498548113982,73.83753317995316,1.235,3.706,6,3
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 005,Bus,18.52302166913381,73.83418396283558,1.647,3.294,6,4
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 006,Bus,18.521075869364914,73.83089845915782,2.059,2.882,6,5
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 007,Bus,18.519146034733257,73.82757061435345,2.47,2.47,6,6
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 008,Bus,18.517128567130264,73.82421628568963,2.882,2.059,6,7
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 009,Bus,18.515171857973836,73.8209029945373,3.294,1.647,7,8
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 010,Bus,18.513253901841065,73.81757682244972,3.705,1.235,7,9
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 011,Bus,18.511302400094987,73.8142775648521,4.117,0.823,7,10
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 012,Bus,18.50935139186883,73.81099221870541,4.529,0.412,7,11
+Shivaji Nagar–Kothrud Depot,Shivaji Nagar,Kothrud Depot,Shivaji Nagar Stop 013,Bus,18.507373559714868,73.80764679427236,4.941,0.0,7,12
+Kothrud Depot–PCMC,Kothrud Depot,PCMC,Kothrud Depot Stop 001,Bus,18.507422823176856,73.80767354817836,0.0,13.636,5,0
